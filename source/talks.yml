@@ -1,0 +1,267 @@
+- title: 'Identifying and Reducing Permission Explosion in AWS: A Graph-Based and
+    Analytical Approach'
+  category: Cloud Security
+  tags:
+  - AWS
+  - permissions
+  - graph-analysis
+  summary: This talk discusses a graph-based and analytical method to identify and
+    mitigate the issue of permission explosion in AWS cloud services.
+  video: https://www.youtube.com/watch?v=zJwEH67QTQw
+  duration: 0:24:52
+  pub_date: '2024-02-14'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Moolrajani-Reducing-AWS-Permission-Explosion.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - Decompilation
+  - DNN
+  summary: This talk introduces BTD, a decompiler for deep neural network executables.
+    It explains how deep learning models are compiled for various hardware devices
+    and how BTD helps in decompiling these executables to understand and leverage
+    deep neural network computations across different computing platforms.
+  video: https://www.youtube.com/watch?v=NDfj8JiZMX0
+  duration: 0:23:47
+  pub_date: '2024-02-14'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-ZhiboLiu-BTD-Unleashing-the-Power.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'When a Zero Day and Access Keys Collide in the Cloud: Responding to the
+    SugarCRM 0-Day Vulnerability'
+  category: Cloud Security
+  tags:
+  - AWS
+  - MITRE
+  - prevention
+  summary: The talk discusses various attacks against AWS environments using the MITRE
+    ATTACK Matrix framework and presents prevention mechanisms to protect against
+    these attacks. It emphasizes the complexity of attacks through AWS API calls and
+    the importance of tailored security measures in cloud environments.
+  video: https://www.youtube.com/watch?v=XDyYTxhIO6s
+  duration: 0:23:59
+  pub_date: '2024-02-13'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Zimmermann-WhenaZeroDayandAccessKeysCollide.pdf
+    report: https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: I Was Tasked With Enrolling Millions of Developers in 2FA - Here's What Happened
+  category: Security Operations
+  subcategory: Identity and Access Management
+  tags:
+  - 2FA
+  summary: This talk covers the GitHub 2FA initiative, focusing on strategic considerations,
+    challenges of scaling, and team collaboration. It provides insights into the planning
+    and execution of a large-scale security program.
+  video: https://www.youtube.com/watch?v=kuwoFpBEMuA
+  duration: 0:37:31
+  pub_date: '2024-02-13'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Swanson-I-Was-Tasked-With-Enrolling.pdf
+    code: https://github.com/swannysec/strategic-planning-template
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Does Public Disclosure of Vulnerabilities Affect Hacker Participation in
+    Bug Bounty Programs?
+  category: Application Security
+  subcategory: Security Testing and Auditing
+  tags:
+  - bug bounty
+  - vulnerability
+  - disclosure
+  summary: This research examines the impact of public disclosure of resolved vulnerabilities
+    on ethical hackers' success in bug bounty programs. It explores the perspectives
+    of both organizations and hackers regarding the public disclosure of vulnerability
+    reports.
+  video: https://www.youtube.com/watch?v=FoJgrZgLVCQ
+  duration: 0:30:08
+  pub_date: '2024-02-12'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Ahmed-Does-Public-Disclosure-of-Vulnerabilities.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Close Encounters of the Advanced Persistent Kind: Leveraging Rootkits for
+    Post-Exploitation'
+  category: Offensive Security
+  subcategory: Exploit Development
+  tags:
+  - rootkit
+  - DKOM
+  - NDIS
+  summary: The talk covers a scenario of Windows kernel post-exploitation using a
+    0-day vulnerability to load a kernel rootkit. It explains how Direct Kernel Object
+    Manipulation (DKOM) can hide the rootkit from OS telemetry and endpoint security.
+    The presentation also discusses using NDIS modules for disrupting EDR telemetry,
+    establishing covert channels, and implementing high-performance keylogging by
+    reading keyboard states directly in the kernel.
+  video: https://www.youtube.com/watch?v=t7Rx3crobZU
+  duration: 0:38:03
+  pub_date: '2024-02-12'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Palmiotti-Boonen-Close-Encounters.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Building a Secure Cloud-Native Data Platform
+  category: Cloud Security
+  tags:
+  - data
+  - compliance
+  - best practices
+  summary: This talk explores the principles of securing cloud-native data platforms,
+    with a focus on AWS and GCP. It covers best practices for data security and discusses
+    regulatory and compliance requirements.
+  video: https://www.youtube.com/watch?v=XcGgA_EKe_M
+  duration: 0:36:01
+  pub_date: '2024-02-13'
+  conference:
+    name: mWISE
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/channel/UCvuDnGuAYJoXpepmubA1Ifw
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: 'High Volume and Low Sophistication: DPRK''s Social Engineering Techniques'
+  category: Security Operations
+  subcategory: Threat Intelligence
+  tags:
+  - APT43
+  - phishing
+  summary: This talk discusses the evolving cyber threat capabilities of North Korea,
+    focusing on APT43's role in targeting cryptocurrencies, exchanges, and gathering
+    intelligence by impersonating various individuals. It highlights new research
+    on APT43's phishing tactics, money laundering schemes, and their impact on North
+    Korea's strategic decisions. The session also provides insights into defending
+    against such threats.
+  video: https://www.youtube.com/watch?v=sxLLmzvrhW8
+  duration: 0:47:52
+  pub_date: '2024-02-12'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: 'Moving Forward By Looking Back: Data Collection and Analysis at OWASP'
+  category: Application Security
+  subcategory: Threat Modeling and Risk Assessment
+  tags:
+  - AI
+  - OWASP
+  - Data Analysis
+  summary: The talk discusses leveraging data from past OWASP Top 10 and OWASP SAMM
+    projects to answer questions about organizational and global information security
+    improvement. It introduces a new OWASP project for centralized data collection,
+    covering governance, legal aspects, processing, analytics, and visualizations.
+    The aim is to use data in context to enhance information security practices.
+  video: https://www.youtube.com/watch?v=zpu_DzbkF9A
+  duration: 0:41:23
+  pub_date: '2024-02-14'
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
+- title: 'Influencing Without Authority: The Foundations of a Successful Security
+    Department of Yes'
+  category: Soft Skills
+  tags:
+  - influence
+  - partnership
+  - collaboration
+  summary: This talk discusses the importance of influencing without authority in
+    security organizations. It covers strategies for partnering with non-security
+    stakeholders, shifting from a 'Department of No' to a 'Department of Yes', and
+    practical examples to increase influence and drive security best practices adoption.
+    The talk emphasizes building effective relationships, establishing credibility,
+    and creating coalitions to improve the security posture of businesses of all sizes.
+  video: https://www.youtube.com/watch?v=BPF18NVKI1A
+  duration: 0:47:01
+  pub_date: '2024-02-14'
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
