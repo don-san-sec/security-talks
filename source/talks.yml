@@ -159,7 +159,7 @@
       X.com: https://x.com/owasp
     city: Washington
     year: 2023
-- title: '"Shift Left" Isn't What You Expected'
+- title: '"Shift Left" Isn''t What You Expected'
   category: Application Security
   subcategory: Secure Coding Practices
   tags:
