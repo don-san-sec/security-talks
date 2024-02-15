@@ -93,9 +93,10 @@ def main():
             week_markdown_file = f'{ARCHIVE_DIR}/{pub_date_year}/week{pub_date_week}.md'
             with open(week_markdown_file, 'w') as wmf:
                 for category in markdown_dict[pub_date_year][pub_date_week]:
-                    wmf.write(f'# {category}\n')
+                    wmf.write(f'## {category}\n')
                     for subcategory in markdown_dict[pub_date_year][pub_date_week][category]:
-                        wmf.write(f'## {subcategory}\n')
+                        if subcategory:
+                            wmf.write(f'### {subcategory}\n')
                         for title in markdown_dict[pub_date_year][pub_date_week][category][subcategory]:
                             yaml_record = markdown_dict[pub_date_year][pub_date_week][category][subcategory][title]
                             md_record = reender(yaml_record)
