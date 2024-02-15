@@ -1,6 +1,5 @@
 - title: 'Dirty Stream Attack, turning Android share targetsInto Attack Vectors'
   category: Offensive Security
-  subcategory: Penetration Testing
   tags:
   - Android
   - Exploitation
@@ -24,7 +23,6 @@
     year: 2023
 - title: The State of Secure DevOps - Security enables Velocity
   category: Application Security
-  subcategory: None
   tags:
   - DevOps
   - DORA
@@ -54,7 +52,6 @@
     year: 2023
 - title: OpenCRE.org - Universal Translator for Security
   category: Application Security
-  subcategory: None
   tags:
   - security requirements
   summary: The talk introduces OpenCRE.org, an open source initiative that connects
@@ -82,7 +79,6 @@
     year: 2023
 - title: Level Up Your Security Champions (and Your Program)
   category: Application Security
-  subcategory: None
   tags:
   - Security Champions
   summary: This talk discusses the evolution of the Security Champions program at
@@ -109,7 +105,6 @@
     year: 2023
 - title: How to Avoid Potholes When Scaling Your Application Security Program
   category: Application Security
-  subcategory: Security Testing and Auditing
   tags:
   - scaling
   summary: This talk discusses the process of building a scaled Application Security
@@ -136,7 +131,6 @@
     year: 2023
 - title: Bootstrap Your Software Security with OWASP SAMM 2.1
   category: Application Security
-  subcategory: Secure Coding Practices
   tags:
   - SAMM
   - training
@@ -161,7 +155,6 @@
     year: 2023
 - title: '"Shift Left" Isn''t What You Expected'
   category: Application Security
-  subcategory: Secure Coding Practices
   tags:
   - DevSecOps
   - Shift Left
@@ -266,7 +259,6 @@
     year: 2023
 - title: I Was Tasked With Enrolling Millions of Developers in 2FA - Here's What Happened
   category: Security Operations
-  subcategory: Identity and Access Management
   tags:
   - 2FA
   summary: This talk covers the GitHub 2FA initiative, focusing on strategic considerations,
@@ -293,7 +285,6 @@
 - title: Does Public Disclosure of Vulnerabilities Affect Hacker Participation in
     Bug Bounty Programs?
   category: Application Security
-  subcategory: Security Testing and Auditing
   tags:
   - bug bounty
   - vulnerability
@@ -322,7 +313,6 @@
 - title: 'Close Encounters of the Advanced Persistent Kind: Leveraging Rootkits for
     Post-Exploitation'
   category: Offensive Security
-  subcategory: Exploit Development
   tags:
   - rootkit
   - DKOM
@@ -364,6 +354,7 @@
   pub_date: '2024-02-13'
   conference:
     name: mWISE
+    event: '2023'
     website: https://mwise.mandiant.com
     channel: https://www.youtube.com/channel/UCvuDnGuAYJoXpepmubA1Ifw
     socials:
@@ -373,7 +364,6 @@
     year: 2023
 - title: 'High Volume and Low Sophistication: DPRK''s Social Engineering Techniques'
   category: Security Operations
-  subcategory: Threat Intelligence
   tags:
   - APT43
   - phishing
@@ -398,7 +388,6 @@
     year: 2023
 - title: 'Moving Forward By Looking Back: Data Collection and Analysis at OWASP'
   category: Application Security
-  subcategory: Threat Modeling and Risk Assessment
   tags:
   - AI
   - OWASP
