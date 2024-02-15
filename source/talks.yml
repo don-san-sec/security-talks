@@ -1,3 +1,187 @@
+- title: 'Dirty Stream Attack, turning Android share targetsInto Attack Vectors'
+  category: Offensive Security
+  subcategory: Penetration Testing
+  tags:
+  - Android
+  - Exploitation
+  - Mobile
+  summary: This talk describes an attack exploiting Android's intent system, where
+    a malicious app sends a payload to another app without validation, potentially
+    overwriting critical files or exposing private data.
+  video: https://www.youtube.com/watch?v=5QsHrAQC3OQ
+  duration: 0:39:58
+  pub_date: '2024-02-15'
+  conference:
+    name: BSides Lisbon
+    event: '2023'
+    website: https://bsideslisbon.org
+    channel: https://www.youtube.com/playlist?list=PLbuNP88_wbNzLYSSF-3ZpUj3NEXaFrHkO
+    socials:
+      facebook: https://www.facebook.com/Bsideslisbon
+      linkedin: https://www.linkedin.com/company/bsideslisbon
+      X.com: https://x.com/Bsideslisbon
+    city: Lisbon
+    year: 2023
+- title: The State of Secure DevOps - Security enables Velocity
+  category: Application Security
+  subcategory: None
+  tags:
+  - DevOps
+  - DORA
+  - collaboration
+  summary: This talk explores how integrating security into the software development
+    process can enhance organizational performance without sacrificing delivery velocity.
+    It highlights findings from the DORA research, emphasizing a people-centric approach
+    to security, the importance of a secure software development lifecycle, and the
+    role of collaborative cultures in establishing mature security programs. The presentation
+    suggests that top-performing teams that integrate security into their development
+    processes are more likely to meet their reliability targets.
+  video: https://www.youtube.com/watch?v=bV2xZPBTcBo
+  duration: 0:47:03
+  pub_date: '2024-02-15'
+  resources:
+    slides: https://static.sched.com/hosted_files/owasp2023globalappsecwashin/4b/Final_The%20State%20of%20DevOps%20-%20Security%20Enables%20Velocity%20-%20AppsecUS.pdf
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
+- title: OpenCRE.org - Universal Translator for Security
+  category: Application Security
+  subcategory: None
+  tags:
+  - security requirements
+  summary: The talk introduces OpenCRE.org, an open source initiative that connects
+    standards, documentation, and tooling in security. It links topics across multiple
+    standards and includes code samples and offensive tooling configurations. OpenCRE.org
+    aims to serve as a universal translator for various roles in Application Security,
+    from executives to testers, by mapping standards to regulations, code, and configurations.
+    The initiative is designed to improve understanding and implementation of security
+    measures across the industry.
+  video: https://www.youtube.com/watch?v=SPC8NATkxqo
+  duration: 0:45:09
+  pub_date: '2024-02-15'
+  resources:
+    slides: https://static.sched.com/hosted_files/owasp2023globalappsecwashin/7c/2023OpenCRE-at-WashingtonDC.pdf
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
+- title: Level Up Your Security Champions (and Your Program)
+  category: Application Security
+  subcategory: None
+  tags:
+  - Security Champions
+  summary: This talk discusses the evolution of the Security Champions program at
+    Datadog, addressing common challenges such as authority, knowledge disparity,
+    engagement, and goal alignment. It highlights the program's unique features like
+    role definition, mentorship, feedback mechanisms, and metrics for demonstrating
+    value to leadership. The session aims to provide actionable insights for enhancing
+    Security Champions programs in other organizations.
+  video: https://www.youtube.com/watch?v=7gmA9Wthv8Y
+  duration: 0:51:24
+  pub_date: '2024-02-15'
+  resources:
+    slides: https://static.sched.com/hosted_files/owasp2023globalappsecwashin/d9/Chuck%20Willis%20-%202023%20OWASP%20AppSec%20DC%20-%20Level%20Up%20Your%20Security%20Champions%20%28and%20Your%20Program%29.pdf
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
+- title: How to Avoid Potholes When Scaling Your Application Security Program
+  category: Application Security
+  subcategory: Security Testing and Auditing
+  tags:
+  - scaling
+  summary: This talk discusses the process of building a scaled Application Security
+    program within large or rapidly growing organizations, or those that have acquired
+    many companies with different tech stacks. It covers the levels of maturity for
+    Application Security programs, hiring strategies, tool leverage, and creating
+    a democratized vulnerability management program where Engineering is responsible
+    for vulnerabilities.
+  video: https://www.youtube.com/watch?v=lHRlNG-z1x8
+  duration: 0:47:23
+  pub_date: '2024-02-15'
+  resources:
+    slides: https://static.sched.com/hosted_files/owasp2023globalappsecwashin/92/2023-10%20-%20Global%20AppSec%20-%20Building%20a%20Scaled%20Application%20Security%20Program.pdf
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
+- title: Bootstrap Your Software Security with OWASP SAMM 2.1
+  category: Application Security
+  subcategory: Secure Coding Practices
+  tags:
+  - SAMM
+  - training
+  summary: This talk provides an overview of the OWASP SAMM 2.1 framework, aimed at
+    improving secure development lifecycle practices. It covers the framework's purpose,
+    its application across the software lifecycle, and its technology and process-agnostic
+    nature. The presentation includes a demonstration of assessment tools and introduces
+    new self-paced OWASP SAMM training.
+  video: https://www.youtube.com/watch?v=tKvBBSR-Q-c
+  duration: 0:44:27
+  pub_date: '2024-02-15'
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
+- title: '"Shift Left" Isn't What You Expected'
+  category: Application Security
+  subcategory: Secure Coding Practices
+  tags:
+  - DevSecOps
+  - Shift Left
+  summary: The talk discusses the concept of 'shift left' in software security, its
+    successes, limitations, and how it can be applied more effectively as part of
+    a larger management strategy rather than a standalone solution.
+  video: https://www.youtube.com/watch?v=QzIdRsxQI88
+  duration: 0:44:49
+  pub_date: '2024-02-15'
+  conference:
+    name: Global AppSec
+    event: Washington 2023
+    website: https://owasp.org
+    channel: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    socials:
+      facebook: https://www.facebook.com/groups/owaspfoundation
+      linkedin: https://www.linkedin.com/company/owasp/
+      X.com: https://x.com/owasp
+    city: Washington
+    year: 2023
 - title: 'Identifying and Reducing Permission Explosion in AWS: A Graph-Based and
     Analytical Approach'
   category: Cloud Security
