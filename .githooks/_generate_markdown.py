@@ -47,7 +47,7 @@ def reender(yaml_record):
         for social_network_name, social_network_link in yaml_record['conference']['socials'].items():
             conference_line += f'[{social_network_name.capitalize()}]({social_network_link})  '
 
-    return f'{title_line}  \n{tags_line}  \n{summary_line}  \n{conference_line}  \n'
+    return f'{title_line}  \n{tags_line}  \n{summary_line}  \n{conference_line}  \n\n'
 
 def main():
     with open(YAML_FILE_PATH) as f:
