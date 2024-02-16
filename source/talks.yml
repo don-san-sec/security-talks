@@ -1,3 +1,61 @@
+- title: 'IRonMAN: InterpRetable Incident Inspector Based ON Large-Scale Language
+    Model and Association miNing'
+  category: Security Operations
+  tags:
+  - Threat Detection
+  - LLM
+  summary: This talk introduces an explainable, large-scale language model-based incident
+    inspector that combines language embedding with a frequent association algorithm
+    to identify significant tokens for incident similarity. It demonstrates the model's
+    effectiveness in real-world scenarios, handling over 200 million events per day,
+    and its ability to link incidents to specific APT groups through significant tokens.
+    The method's results are compared with security analysts' feedback, offering diverse
+    analytical insights into incident analysis.
+  video: https://www.youtube.com/watch?v=_Dvjn6DeFFk
+  duration: 0:40:13
+  pub_date: '2024-02-15'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Huang-IRonMAN.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Uncovering Azure''s Silent Threats: A Journey into Cloud Vulnerabilities'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - Azure
+  - MLaaS
+  - vulnerabilities
+  summary: This talk explores security vulnerabilities in Azure ML, focusing on 
+    insecure logging and sensitive information disclosure. It highlights the 
+    risks in cloud-based MLaaS platforms and demonstrates analysis techniques 
+    for assessing managed services within the shared responsibility model.
+  video: https://www.youtube.com/watch?v=cCLL5JrDt-M
+  duration: 0:40:39
+  pub_date: '2024-02-15'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Surana-Uncovering-Azures-Silent-Threats.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
 - title: 'Dirty Stream Attack, turning Android share targetsInto Attack Vectors'
   category: Offensive Security
   tags:

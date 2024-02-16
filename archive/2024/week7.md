@@ -1,3 +1,31 @@
+## Security Operations
+- [**IRonMAN: InterpRetable Incident Inspector Based ON Large-Scale Language Model and Association miNing**](https://www.youtube.com/watch?v=_Dvjn6DeFFk)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Huang-IRonMAN.pdf)\]    
+`🏷️ Threat Detection`  `🏷️ LLM`  
+This talk introduces an explainable, large-scale language model-based incident inspector that combines language embedding with a frequent association algorithm to identify significant tokens for incident similarity. It demonstrates the model's effectiveness in real-world scenarios, handling over 200 million events per day, and its ability to link incidents to specific APT groups through significant tokens. The method's results are compared with security analysts' feedback, offering diverse analytical insights into incident analysis.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**I Was Tasked With Enrolling Millions of Developers in 2FA - Here's What Happened**](https://www.youtube.com/watch?v=kuwoFpBEMuA)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Swanson-I-Was-Tasked-With-Enrolling.pdf)\]  \[[Code](https://github.com/swannysec/strategic-planning-template)\]    
+`🏷️ 2FA`  
+This talk covers the GitHub 2FA initiative, focusing on strategic considerations, challenges of scaling, and team collaboration. It provides insights into the planning and execution of a large-scale security program.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**High Volume and Low Sophistication: DPRK's Social Engineering Techniques**](https://www.youtube.com/watch?v=sxLLmzvrhW8)    
+`🏷️ APT43`  `🏷️ phishing`  
+This talk discusses the evolving cyber threat capabilities of North Korea, focusing on APT43's role in targeting cryptocurrencies, exchanges, and gathering intelligence by impersonating various individuals. It highlights new research on APT43's phishing tactics, money laundering schemes, and their impact on North Korea's strategic decisions. The session also provides insights into defending against such threats.  
+🎙️  **mWISE 2023** [Website](https://mwise.mandiant.com) [Youtube](https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd) [X.com](https://x.com/mwiseconference)  [Linkedin](https://www.linkedin.com/showcase/mwise-conference)    
+
+## Emerging Technology Security
+### AI Security
+- [**Uncovering Azure's Silent Threats: A Journey into Cloud Vulnerabilities**](https://www.youtube.com/watch?v=cCLL5JrDt-M)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Surana-Uncovering-Azures-Silent-Threats.pdf)\]    
+`🏷️ Azure`  `🏷️ MLaaS`  `🏷️ vulnerabilities`  
+This talk explores security vulnerabilities in Azure ML, focusing on insecure logging and sensitive information disclosure. It highlights the risks in cloud-based MLaaS platforms and demonstrates analysis techniques for assessing managed services within the shared responsibility model.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables**](https://www.youtube.com/watch?v=NDfj8JiZMX0)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-ZhiboLiu-BTD-Unleashing-the-Power.pdf)\]    
+`🏷️ Decompilation`  `🏷️ DNN`  
+This talk introduces BTD, a decompiler for deep neural network executables. It explains how deep learning models are compiled for various hardware devices and how BTD helps in decompiling these executables to understand and leverage deep neural network computations across different computing platforms.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
 ## Offensive Security
 - [**Dirty Stream Attack, turning Android share targetsInto Attack Vectors**](https://www.youtube.com/watch?v=5QsHrAQC3OQ)    
 `🏷️ Android`  `🏷️ Exploitation`  `🏷️ Mobile`  
@@ -65,24 +93,6 @@ The talk discusses various attacks against AWS environments using the MITRE ATTA
 `🏷️ data`  `🏷️ compliance`  `🏷️ best practices`  
 This talk explores the principles of securing cloud-native data platforms, with a focus on AWS and GCP. It covers best practices for data security and discusses regulatory and compliance requirements.  
 🎙️  **mWISE 2023** [Website](https://mwise.mandiant.com) [Youtube](https://www.youtube.com/channel/UCvuDnGuAYJoXpepmubA1Ifw) [X.com](https://x.com/mwiseconference)  [Linkedin](https://www.linkedin.com/showcase/mwise-conference)    
-
-## Emerging Technology Security
-### AI Security
-- [**BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables**](https://www.youtube.com/watch?v=NDfj8JiZMX0)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-ZhiboLiu-BTD-Unleashing-the-Power.pdf)\]    
-`🏷️ Decompilation`  `🏷️ DNN`  
-This talk introduces BTD, a decompiler for deep neural network executables. It explains how deep learning models are compiled for various hardware devices and how BTD helps in decompiling these executables to understand and leverage deep neural network computations across different computing platforms.  
-🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
-
-## Security Operations
-- [**I Was Tasked With Enrolling Millions of Developers in 2FA - Here's What Happened**](https://www.youtube.com/watch?v=kuwoFpBEMuA)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Swanson-I-Was-Tasked-With-Enrolling.pdf)\]  \[[Code](https://github.com/swannysec/strategic-planning-template)\]    
-`🏷️ 2FA`  
-This talk covers the GitHub 2FA initiative, focusing on strategic considerations, challenges of scaling, and team collaboration. It provides insights into the planning and execution of a large-scale security program.  
-🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
-
-- [**High Volume and Low Sophistication: DPRK's Social Engineering Techniques**](https://www.youtube.com/watch?v=sxLLmzvrhW8)    
-`🏷️ APT43`  `🏷️ phishing`  
-This talk discusses the evolving cyber threat capabilities of North Korea, focusing on APT43's role in targeting cryptocurrencies, exchanges, and gathering intelligence by impersonating various individuals. It highlights new research on APT43's phishing tactics, money laundering schemes, and their impact on North Korea's strategic decisions. The session also provides insights into defending against such threats.  
-🎙️  **mWISE 2023** [Website](https://mwise.mandiant.com) [Youtube](https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd) [X.com](https://x.com/mwiseconference)  [Linkedin](https://www.linkedin.com/showcase/mwise-conference)    
 
 ## Soft Skills
 - [**Influencing Without Authority: The Foundations of a Successful Security Department of Yes**](https://www.youtube.com/watch?v=BPF18NVKI1A)    
