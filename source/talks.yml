@@ -13,7 +13,7 @@
     Network. The project's ideals and how to join the community will also be discussed.
   video: https://www.youtube.com/watch?v=fQsylv2XjU0
   duration: 0:58:41
-  pub_date: '2024-02-02'
+  pub_date: '2024-02-16'
   conference:
     name: Cactuscon
     event: '12'
@@ -39,7 +39,7 @@
     for these persistence mechanisms.
   video: https://www.youtube.com/watch?v=U2E4K4-LTco
   duration: 0:39:02
-  pub_date: '2024-02-02'
+  pub_date: '2024-02-16'
   conference:
     name: Cactuscon
     event: '12'
@@ -265,32 +265,6 @@
   video: https://www.youtube.com/watch?v=oi9d9d6Yl7E
   duration: '1:02:56'
   pub_date: '2024-02-17'
-  conference:
-    name: Cactuscon
-    event: '12'
-    website: https://www.cactuscon.com/cc12
-    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
-    socials:
-      discord: https://discord.com/invite/X9KsRXesfj
-      mastodon: https://infosec.exchange/@cactuscon
-      X.com: https://x.com/CactusCon
-    city: Mesa
-    year: 2024
-- title: 'Who''s Afraid of Responsible Vulnerability Disclosure?'
-  category: Governance, Risk, and Compliance
-  tags:
-  - encryption
-  - surveillance
-  - civil liberties
-  summary: The talk explores the complexities of responsible vulnerability disclosure,
-    focusing on the balance between government demands for decryption and the need
-    for strong encryption to protect civil liberties. It examines the impact of government
-    policies on the security design of online platforms, devices, and services, and
-    discusses the implications for free expression, political engagement, and economic
-    development.
-  video: https://www.youtube.com/watch?v=0tkzqlJIlRw
-  duration: 0:04:01
-  pub_date: '2024-02-16'
   conference:
     name: Cactuscon
     event: '12'
@@ -626,7 +600,7 @@
     be concerned about in terms of privacy and security.
   video: https://www.youtube.com/watch?v=1iKFCxP3gpA
   duration: 0:27:22
-  pub_date: '2024-02-02'
+  pub_date: '2024-02-16'
   conference:
     name: Cactuscon
     event: '12'

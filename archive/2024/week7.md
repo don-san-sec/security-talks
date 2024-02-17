@@ -1,3 +1,65 @@
+## Data Privacy
+- [**Veilid, the future of privacy- aka- how to destroy capitalism with the Cult of the Dead Cow**](https://www.youtube.com/watch?v=fQsylv2XjU0)    
+`🏷️ privacy`  `🏷️ decentralization`  `🏷️ cryptography`  
+This talk introduces Veilid, an open-source, peer-to-peer, mobile-first networked application framework aimed at creating a private, accessible internet. It features strong encryption, decentralized storage, and a secure messaging application, VeilidChat. The presentation will cover the protocol's workings, its use of cryptography for private communications, and how developers can build applications on the Veilid Network. The project's ideals and how to join the community will also be discussed.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Betrayed by Your Browser: How Third-Party Tracking Systems Are Following You Online and What to do**](https://www.youtube.com/watch?v=8kaiIJ7VhIU)    
+`🏷️ tracking`  `🏷️ privacy`  `🏷️ browsers`  
+This talk explores the various methods third-party tracking companies use to follow users online, specifically those seeking mental health help. It covers 187 different tracking techniques beyond cookies and user agents, demonstrating how browsers are tracked. The presentation also provides guidance on preventing tracking for individuals and advice for Application Security professionals on communicating these issues and solutions to Security and Privacy Officers.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Come WiFind Me: WiFi and other RF Survelliance**](https://www.youtube.com/watch?v=rdSRTfKAISI)    
+`🏷️ tracking`  `🏷️ wireless`  `🏷️ RFID`  
+This talk explores the pervasive nature of wireless networks like WiFi, Bluetooth, and RFID, highlighting how these technologies can be used for tracking and surveillance. It discusses the limitations of common privacy measures such as MAC address rotation and challenges the notion that one can easily avoid being tracked through RF signals.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Naomi Brockwell: Building a More Private Future**](https://www.youtube.com/watch?v=WqjxrLTMPl4)    
+`🏷️ digital`  `🏷️ education`  
+The talk focuses on educating individuals on how to enhance their privacy in the digital era. It covers the importance of digital privacy, tools, and strategies for maintaining privacy online.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Worst of Cybersecurity Reporting 2023**](https://www.youtube.com/watch?v=1iKFCxP3gpA)    
+`🏷️ journalism`  `🏷️ misconceptions`  `🏷️ surveillance`  
+This talk critiques common errors in cybersecurity reporting, focusing on privacy and surveillance technology. It highlights misconceptions about threats from WhatsApp, Uber, airport chargers, AI, and more. The session also discusses the misuse of technology by white nationalists and the overestimation of solutions like 'secure' smartphones. It aims to clarify what the public should genuinely be concerned about in terms of privacy and security.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+## Cloud Security
+- [**Clearing the Fog: Detection and Defense against Cloud Persistence Techniques**](https://www.youtube.com/watch?v=U2E4K4-LTco)    
+`🏷️ persistence`  `🏷️ AWS`  `🏷️ Azure`  
+The talk discusses the shift in cloud security threats, focusing on sophisticated persistence techniques used by adversaries in AWS and Azure platforms. It covers established and new persistence mechanisms, defensive strategies, and detection methods. Attendees will gain access to a repository with logs and detection logic for these persistence mechanisms.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Leaving Doors Unlocked With Cognito**](https://www.youtube.com/watch?v=FTjZR8tWBiE)    
+`🏷️ AWS`  `🏷️ Cognito`  
+This talk explores AWS Cognito, highlighting its common misconfigurations and how they can be exploited by attackers. It includes a review of AWS Cognito, identifies typical security oversights, and demonstrates exploitation techniques. Terraform templates for hands-on learning will be provided.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Cloud security for the network security engineer, or why it's all just so wrong these days.**](https://www.youtube.com/watch?v=oLJt0LFRNjg)    
+`🏷️ TTP`  `🏷️ shared responsibility`  
+This talk introduces the differences between traditional network security and cloud security, highlighting the shared responsibility model and its impact on security strategies. It covers defensive measures like root user hygiene and offensive tactics, including application vulnerabilities leading to control plane access. The session concludes with a live demonstration of a cloud application compromise.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Catch Me If You Can: Hunting Cloud Exfiltration Using Anomaly Detection**](https://www.youtube.com/watch?v=Wy7I3N8nJRg)    
+`🏷️ anomaly detection`  `🏷️ exfiltration`  `🏷️ Jupyter`  
+This talk focuses on detecting cloud exfiltration through anomaly detection and conventional hunting queries. It covers the challenge of distinguishing between legitimate and malicious activity in cloud environments, outlines major and minor cloud exfiltration cases, and details methods for hunting anomalous activities in various cloud layers using a Jupyter notebook.  
+🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
+
+- [**Identifying and Reducing Permission Explosion in AWS: A Graph-Based and Analytical Approach**](https://www.youtube.com/watch?v=zJwEH67QTQw)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Moolrajani-Reducing-AWS-Permission-Explosion.pdf)\]    
+`🏷️ AWS`  `🏷️ permissions`  `🏷️ graph-analysis`  
+This talk discusses a graph-based and analytical method to identify and mitigate the issue of permission explosion in AWS cloud services.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**When a Zero Day and Access Keys Collide in the Cloud: Responding to the SugarCRM 0-Day Vulnerability**](https://www.youtube.com/watch?v=XDyYTxhIO6s)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Zimmermann-WhenaZeroDayandAccessKeysCollide.pdf)\]  \[[Report](https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat)\]    
+`🏷️ AWS`  `🏷️ MITRE`  `🏷️ prevention`  
+The talk discusses various attacks against AWS environments using the MITRE ATTACK Matrix framework and presents prevention mechanisms to protect against these attacks. It emphasizes the complexity of attacks through AWS API calls and the importance of tailored security measures in cloud environments.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**Building a Secure Cloud-Native Data Platform**](https://www.youtube.com/watch?v=XcGgA_EKe_M)    
+`🏷️ data`  `🏷️ compliance`  `🏷️ best practices`  
+This talk explores the principles of securing cloud-native data platforms, with a focus on AWS and GCP. It covers best practices for data security and discusses regulatory and compliance requirements.  
+🎙️  **mWISE 2023** [Website](https://mwise.mandiant.com) [Youtube](https://www.youtube.com/channel/UCvuDnGuAYJoXpepmubA1Ifw) [X.com](https://x.com/mwiseconference)  [Linkedin](https://www.linkedin.com/showcase/mwise-conference)    
+
 ## Security Operations
 - [**Novel Detection Technique of Process Injection using Network Anomalies**](https://www.youtube.com/watch?v=mvMWuLXhZlo)    
 `🏷️ process injection`  `🏷️ network anomalies`  `🏷️ forensics`  
@@ -100,37 +162,6 @@ This research examines the impact of public disclosure of resolved vulnerabiliti
 The talk discusses leveraging data from past OWASP Top 10 and OWASP SAMM projects to answer questions about organizational and global information security improvement. It introduces a new OWASP project for centralized data collection, covering governance, legal aspects, processing, analytics, and visualizations. The aim is to use data in context to enhance information security practices.  
 🎙️  **Global AppSec Washington 2023** [Website](https://owasp.org) [Youtube](https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA) [Facebook](https://www.facebook.com/groups/owaspfoundation)  [Linkedin](https://www.linkedin.com/company/owasp/)  [X.com](https://x.com/owasp)    
 
-## Cloud Security
-- [**Leaving Doors Unlocked With Cognito**](https://www.youtube.com/watch?v=FTjZR8tWBiE)    
-`🏷️ AWS`  `🏷️ Cognito`  
-This talk explores AWS Cognito, highlighting its common misconfigurations and how they can be exploited by attackers. It includes a review of AWS Cognito, identifies typical security oversights, and demonstrates exploitation techniques. Terraform templates for hands-on learning will be provided.  
-🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
-
-- [**Cloud security for the network security engineer, or why it's all just so wrong these days.**](https://www.youtube.com/watch?v=oLJt0LFRNjg)    
-`🏷️ TTP`  `🏷️ shared responsibility`  
-This talk introduces the differences between traditional network security and cloud security, highlighting the shared responsibility model and its impact on security strategies. It covers defensive measures like root user hygiene and offensive tactics, including application vulnerabilities leading to control plane access. The session concludes with a live demonstration of a cloud application compromise.  
-🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
-
-- [**Catch Me If You Can: Hunting Cloud Exfiltration Using Anomaly Detection**](https://www.youtube.com/watch?v=Wy7I3N8nJRg)    
-`🏷️ anomaly detection`  `🏷️ exfiltration`  `🏷️ Jupyter`  
-This talk focuses on detecting cloud exfiltration through anomaly detection and conventional hunting queries. It covers the challenge of distinguishing between legitimate and malicious activity in cloud environments, outlines major and minor cloud exfiltration cases, and details methods for hunting anomalous activities in various cloud layers using a Jupyter notebook.  
-🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
-
-- [**Identifying and Reducing Permission Explosion in AWS: A Graph-Based and Analytical Approach**](https://www.youtube.com/watch?v=zJwEH67QTQw)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Moolrajani-Reducing-AWS-Permission-Explosion.pdf)\]    
-`🏷️ AWS`  `🏷️ permissions`  `🏷️ graph-analysis`  
-This talk discusses a graph-based and analytical method to identify and mitigate the issue of permission explosion in AWS cloud services.  
-🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
-
-- [**When a Zero Day and Access Keys Collide in the Cloud: Responding to the SugarCRM 0-Day Vulnerability**](https://www.youtube.com/watch?v=XDyYTxhIO6s)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Zimmermann-WhenaZeroDayandAccessKeysCollide.pdf)\]  \[[Report](https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat)\]    
-`🏷️ AWS`  `🏷️ MITRE`  `🏷️ prevention`  
-The talk discusses various attacks against AWS environments using the MITRE ATTACK Matrix framework and presents prevention mechanisms to protect against these attacks. It emphasizes the complexity of attacks through AWS API calls and the importance of tailored security measures in cloud environments.  
-🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
-
-- [**Building a Secure Cloud-Native Data Platform**](https://www.youtube.com/watch?v=XcGgA_EKe_M)    
-`🏷️ data`  `🏷️ compliance`  `🏷️ best practices`  
-This talk explores the principles of securing cloud-native data platforms, with a focus on AWS and GCP. It covers best practices for data security and discusses regulatory and compliance requirements.  
-🎙️  **mWISE 2023** [Website](https://mwise.mandiant.com) [Youtube](https://www.youtube.com/channel/UCvuDnGuAYJoXpepmubA1Ifw) [X.com](https://x.com/mwiseconference)  [Linkedin](https://www.linkedin.com/showcase/mwise-conference)    
-
 ## Offensive Security
 - [**Command, Control, and memes: Cordyceps + ant = zombie**](https://www.youtube.com/watch?v=bQfy-quoAh8)    
 `🏷️ C2`  `🏷️ automation`  `🏷️ Red Team`  
@@ -161,27 +192,6 @@ The talk covers a scenario of Windows kernel post-exploitation using a 0-day vul
 - [**Arizona Elections Security Prep for 2024**](https://www.youtube.com/watch?v=oi9d9d6Yl7E)    
 `🏷️ elections`  
 This panel discussion features Election Security experts from Arizona discussing their security preparations for the 2024 General Election. They cover physical and cyber security improvements, a prevent, detect, and recover approach, and the importance of threat intelligence sharing. The talk emphasizes the role of federal, state, and local partnerships and the challenges posed by misinformation and insider threats.  
-🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
-
-- [**Who's Afraid of Responsible Vulnerability Disclosure?**](https://www.youtube.com/watch?v=0tkzqlJIlRw)    
-`🏷️ encryption`  `🏷️ surveillance`  `🏷️ civil liberties`  
-The talk explores the complexities of responsible vulnerability disclosure, focusing on the balance between government demands for decryption and the need for strong encryption to protect civil liberties. It examines the impact of government policies on the security design of online platforms, devices, and services, and discusses the implications for free expression, political engagement, and economic development.  
-🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
-
-## Data Privacy
-- [**Betrayed by Your Browser: How Third-Party Tracking Systems Are Following You Online and What to do**](https://www.youtube.com/watch?v=8kaiIJ7VhIU)    
-`🏷️ tracking`  `🏷️ privacy`  `🏷️ browsers`  
-This talk explores the various methods third-party tracking companies use to follow users online, specifically those seeking mental health help. It covers 187 different tracking techniques beyond cookies and user agents, demonstrating how browsers are tracked. The presentation also provides guidance on preventing tracking for individuals and advice for Application Security professionals on communicating these issues and solutions to Security and Privacy Officers.  
-🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
-
-- [**Come WiFind Me: WiFi and other RF Survelliance**](https://www.youtube.com/watch?v=rdSRTfKAISI)    
-`🏷️ tracking`  `🏷️ wireless`  `🏷️ RFID`  
-This talk explores the pervasive nature of wireless networks like WiFi, Bluetooth, and RFID, highlighting how these technologies can be used for tracking and surveillance. It discusses the limitations of common privacy measures such as MAC address rotation and challenges the notion that one can easily avoid being tracked through RF signals.  
-🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
-
-- [**Naomi Brockwell: Building a More Private Future**](https://www.youtube.com/watch?v=WqjxrLTMPl4)    
-`🏷️ digital`  `🏷️ education`  
-The talk focuses on educating individuals on how to enhance their privacy in the digital era. It covers the importance of digital privacy, tools, and strategies for maintaining privacy online.  
 🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
 
 ## Emerging Technology Security
