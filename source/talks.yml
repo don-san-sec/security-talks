@@ -1,3 +1,308 @@
+- title: 'Unlocking RFID Security: A Deep Dive into Flipper Zero and the Vulnerabilities
+    of Multiclass'
+  category: Hardware Security
+  tags:
+  - RFID
+  - vulnerabilities
+  - exploit
+  summary: This talk explores RFID/NFC hacking, focusing on HID's iClass systems and
+    the vulnerabilities of multiclass readers. It discusses the use of Flipper Zero
+    Unleashed Firmware to exploit these vulnerabilities, highlighting the risks of
+    downgrade attacks, privilege escalation, and the implications of facility codes
+    and card naming conventions.
+  video: https://www.youtube.com/watch?v=PBVsJv-oIXU
+  duration: 0:26:32
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: 'A cactus coup at the goldrush saloon: swindling machine learning
+    caches via wagon train'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - malware
+  - forensics
+  - detection
+  summary: This talk explores vulnerabilities in machine learning environments, demonstrating
+    how malware can be distributed through ML models and repositories. It covers novel
+    techniques for compromising large companies, writing and distributing ML malware,
+    looting ML environments, and developing detection and forensic analysis methods
+    for ML models. The presentation includes a demonstration and discusses open source
+    tools for security and mitigation.
+  video: https://www.youtube.com/watch?v=RlzbAmf7u40
+  duration: 0:00:00
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: The Best Free Resources to Get Started in Incident Response
+  category: Security Operations
+  tags:
+  - forensics
+  - training
+  - tools
+  summary: This talk provides a guide to free resources for beginners in Incident
+    Response and Forensics, covering preparation, telemetry, forensics artifacts,
+    and tools for data collection, parsing, and analysis. It aims to help attendees
+    quickly gain the necessary knowledge and skills for a career in Incident Response.
+  video: https://www.youtube.com/watch?v=OmSdRXtZ_gM
+  duration: 0:00:00
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: 'Cyber Espionage and the Global Power Struggle: A Deep Dive'
+  category: Security Operations
+  tags:
+  - espionage
+  - geopolitics
+  summary: The talk explores the role of cyber espionage in global power dynamics,
+    focusing on how nations use cyber capabilities, including zero-day iPhone exploits,
+    to advance their strategic objectives. It delves into the history and future implications
+    of state-sponsored cyber activities, with case studies and data-driven research
+    highlighting the impact on global geopolitics and cybersecurity.
+  video: https://www.youtube.com/watch?v=1drzGicEH4A
+  duration: 0:50:11
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: 'DON''T PANIC!: An IR Guide to Communicating with Execs'
+  category: Security Operations
+  tags:
+  - communication
+  - reporting
+  - incident response
+  summary: The talk provides practical advice on writing incident reports for executives.
+    It emphasizes the importance of clear, concise communication, avoiding technical
+    jargon, and tailoring the message to the audience's level of expertise. The presentation
+    also highlights the benefits of involving skilled writers and the value of constructive
+    criticism in the report writing process.
+  video: https://www.youtube.com/watch?v=W5iqIl7E_jE
+  duration: 0:23:38
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: 'From Cyber Lemons to Lemonade: A Refreshing Take on Exposed Data'
+  category: Security Operations
+  tags:
+  - breaches
+  - ethics
+  summary: This talk discusses how organizations can use exposed data, such as breach
+    data and data stealer logs, to improve their security posture. It covers legal
+    and ethical considerations, as well as methods for finding and utilizing this
+    data.
+  video: https://www.youtube.com/watch?v=61KKo95sLgE
+  duration: 0:57:04
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: 'SBOMs for Evil: Turning Un-Remediated Software Supply Chain Documentation
+    into an Attack Path'
+  category: Offensive Security
+  tags:
+  - SBOM
+  - pentest
+  summary: This talk explores how Software Bill of Materials (SBOMs) can be used in
+    penetration testing to identify potential attack vectors by analyzing CVE-linked
+    components and dependencies in software packages. It covers SBOM basics, formats,
+    and real-world use cases, including compromising IoT/ICS/OT devices or software
+    applications. The presentation aims to show both offensive and defensive applications
+    of SBOMs, helping attendees understand how to incorporate them into their security
+    practices.
+  video: https://www.youtube.com/watch?v=sSxoBRTNXbo
+  duration: 0:00:00
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: Simple Ways to Make Webhook Security Better
+  category: Application Security
+  tags:
+  - webhooks
+  - security
+  - patterns
+  summary: This talk explores common patterns in over 100 webhook implementations
+    and offers simple strategies to enhance webhook security for both providers and
+    consumers. It highlights the importance of security enforcement by the listener
+    in the flexible yet powerful communication mechanism of webhooks.
+  video: https://www.youtube.com/watch?v=Q-8lbpbE12w
+  duration: 0:00:00
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: Validating Identity in a World of Deepfakes
+  category: Security Operations
+  tags:
+  - AI
+  - deepfakes
+  - identity verification
+  summary: The talk discusses the challenges of validating identity in the era of
+    deepfakes and AI advancements. It highlights a data breach incident where an attacker
+    used a deepfake voice to impersonate an IT team member. The presentation explores
+    how traditional methods of identity verification are becoming unreliable due to
+    the ability to spoof voices, pictures, body movements, and other personal attributes.
+    Solutions for organizational security in this new threat landscape are proposed,
+    considering factors like ease-of-use, scalability, and cost.
+  video: https://www.youtube.com/watch?v=eWOI4Shye6M
+  duration: 0:53:56
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: Every Contact Leaves a Trace
+  category: Data Privacy
+  tags:
+  - human rights
+  summary: The talk explores how the internet's vast data landscape aids in investigations
+    but also poses privacy, ethical, and legal challenges. It discusses real-world
+    cases of tracking organized crime and cybercriminals, highlighting the dual use
+    of investigative techniques by both protectors and adversaries. The presentation
+    emphasizes the ongoing challenges to privacy, truth, and human rights in the digital
+    age, and calls for community action to safeguard these values.
+  video: https://www.youtube.com/watch?v=vsQOcTrV4EQ
+  duration: 0:51:44
+  pub_date: '2024-02-16'
+  resources: null
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: 'Opening the DarkGate: Exploring the Destructive Potential of AutoIT
+    and Possible Mitigations'
+  category: Security Operations
+  tags:
+  - malware
+  - evasion
+  - AutoIt
+  summary: The talk explores the use of AutoIt by DarkGate malware as a covert delivery
+    mechanism for executing malware due to its trusted certificate, making it an effective
+    evasion tactic. It discusses the malicious applications of AutoIt and similar
+    tools in malware delivery, recon, and lateral movement, and proposes strategies
+    for protection against such attacks.
+  video: https://www.youtube.com/watch?v=aL4CbfL2O_I
+  duration: 0:47:20
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
+- title: The Registry Hives you may be MSIX-ing
+  category: Security Operations
+  tags:
+  - forensics
+  - MSIX
+  - Windows
+  summary: This talk explores the use of registry hives in digital forensics, particularly
+    focusing on the per application registry hives introduced with MSIX in Windows
+    10+. It discusses how these hives can provide valuable information not found in
+    traditional hives, where to find them, and what tools to use for analysis. The
+    presentation aims to enhance investigations by incorporating these additional
+    data sources.
+  video: https://www.youtube.com/watch?v=Vpk47W1W5v8
+  duration: 0:00:00
+  pub_date: '2024-02-16'
+  conference:
+    name: Cactuscon
+    event: '12'
+    website: https://www.cactuscon.com/cc12
+    channel: https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA
+    socials:
+      discord: https://discord.com/invite/X9KsRXesfj
+      mastodon: https://infosec.exchange/@cactuscon
+      X.com: https://x.com/CactusCon
+    city: Mesa
+    year: 2024
 - title: Veilid, the future of privacy- aka- how to destroy capitalism with
     the Cult of the Dead Cow
   category: Data Privacy
@@ -455,7 +760,7 @@
       X.com: https://x.com/CactusCon
     city: Mesa
     year: 2024
-- title: 'Naomi Brockwell: Building a More Private Future'
+- title: 'Building a More Private Future'
   category: Data Privacy
   tags:
   - digital
