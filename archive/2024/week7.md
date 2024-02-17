@@ -107,7 +107,7 @@ This talk explores AWS Cognito, highlighting its common misconfigurations and ho
 🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
 
 - [**Cloud security for the network security engineer, or why it's all just so wrong these days.**](https://www.youtube.com/watch?v=oLJt0LFRNjg)    
-`🏷️ None`  
+`🏷️ TTP`  `🏷️ shared responsibility`  
 This talk introduces the differences between traditional network security and cloud security, highlighting the shared responsibility model and its impact on security strategies. It covers defensive measures like root user hygiene and offensive tactics, including application vulnerabilities leading to control plane access. The session concludes with a live demonstration of a cloud application compromise.  
 🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
 
@@ -163,8 +163,7 @@ The talk covers a scenario of Windows kernel post-exploitation using a 0-day vul
 This panel discussion features Election Security experts from Arizona discussing their security preparations for the 2024 General Election. They cover physical and cyber security improvements, a prevent, detect, and recover approach, and the importance of threat intelligence sharing. The talk emphasizes the role of federal, state, and local partnerships and the challenges posed by misinformation and insider threats.  
 🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
 
-### None
-- [**Riana Pfefferkorn: Who's Afraid of Responsible Vulnerability Disclosure?**](https://www.youtube.com/watch?v=0tkzqlJIlRw)    
+- [**Who's Afraid of Responsible Vulnerability Disclosure?**](https://www.youtube.com/watch?v=0tkzqlJIlRw)    
 `🏷️ encryption`  `🏷️ surveillance`  `🏷️ civil liberties`  
 The talk explores the complexities of responsible vulnerability disclosure, focusing on the balance between government demands for decryption and the need for strong encryption to protect civil liberties. It examines the impact of government policies on the security design of online platforms, devices, and services, and discusses the implications for free expression, political engagement, and economic development.  
 🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    

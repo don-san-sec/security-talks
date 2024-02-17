@@ -181,7 +181,8 @@
   all just so wrong these days.'
   category: Cloud Security
   tags:
-  - 
+  - TTP
+  - shared responsibility
   summary: This talk introduces the differences between traditional network security
     and cloud security, highlighting the shared responsibility model and its impact
     on security strategies. It covers defensive measures like root user hygiene and
@@ -275,9 +276,8 @@
       X.com: https://x.com/CactusCon
     city: Mesa
     year: 2024
-- title: 'Riana Pfefferkorn: Who''s Afraid of Responsible Vulnerability Disclosure?'
+- title: 'Who''s Afraid of Responsible Vulnerability Disclosure?'
   category: Governance, Risk, and Compliance
-  subcategory: None
   tags:
   - encryption
   - surveillance
