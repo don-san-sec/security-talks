@@ -480,10 +480,10 @@
 - title: 'Endoscope: Unpacking Android Apps with VM-Based Obfuscation'
   category: Security Operations
   tags:
-  - reverse-engineering
+  - reverse engineering
   - virtualization
   - mobile
-  summary: The talk discusses the challenges of reverse-engineering mobile apps that
+  summary: The talk discusses the challenges of reverse engineering mobile apps that
     use code virtualization for protection. It highlights the difficulty in understanding
     the virtual machine's instruction execution due to the heterogeneity of custom
     instructions, making common tools like jadx and IDA ineffective.

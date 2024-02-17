@@ -87,8 +87,8 @@ This talk provides an overview of phishing kits, including their architecture, a
 🎙️  **Cactuscon 12** [Website](https://www.cactuscon.com/cc12) [Youtube](https://www.youtube.com/channel/UCfQavabFV0i9RzVpcERESEA) [Discord](https://discord.com/invite/X9KsRXesfj)  [Mastodon](https://infosec.exchange/@cactuscon)  [X.com](https://x.com/CactusCon)    
 
 - [**Endoscope: Unpacking Android Apps with VM-Based Obfuscation**](https://www.youtube.com/watch?v=4Rmc1rEyADU)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Wu-Malware-Mobile-Endoscope.pdf)\]    
-`🏷️ reverse-engineering`  `🏷️ virtualization`  `🏷️ mobile`  
-The talk discusses the challenges of reverse-engineering mobile apps that use code virtualization for protection. It highlights the difficulty in understanding the virtual machine's instruction execution due to the heterogeneity of custom instructions, making common tools like jadx and IDA ineffective.  
+`🏷️ reverse engineering`  `🏷️ virtualization`  `🏷️ mobile`  
+The talk discusses the challenges of reverse engineering mobile apps that use code virtualization for protection. It highlights the difficulty in understanding the virtual machine's instruction execution due to the heterogeneity of custom instructions, making common tools like jadx and IDA ineffective.  
 🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
 
 - [**I Watched You Roll the Die: Unparalleled RDP Monitoring Reveal Attackers' Tradecraft**](https://www.youtube.com/watch?v=e-Q4pYf9-oE)  \[[Slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Bilodeau-I-Watched-You-Roll-the-Die-Unparalleled-RDP-Monitoring.pdf)\]    
