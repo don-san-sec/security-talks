@@ -1,3 +1,29 @@
+- title: 'Incident Response in Cases of Supply Chain Incidents'
+  category: Security Operations
+  tags:
+  - Supply chain
+  - DFIR
+  summary: This talk explores incident response in the context of supply chain attacks,
+    focusing on vulnerabilities in SaaS applications and open-source libraries. It
+    discusses real-world examples of supply chain attacks, including the Okta compromise
+    and the Log4Shell vulnerability, and how Cloudflare responded to these incidents.
+    The presentation highlights the challenges incident response teams face when dealing
+    with third-party vendors and service providers.
+  video: https://www.youtube.com/watch?v=y0z0i61df7c
+  duration: 0:41:37
+  pub_date: '2024-02-19'
+  resources: null
+  conference:
+    name: BSides Lisbon
+    event: '2023'
+    website: https://bsideslisbon.org
+    channel: https://www.youtube.com/playlist?list=PLbuNP88_wbNzLYSSF-3ZpUj3NEXaFrHkO
+    socials:
+      facebook: https://www.facebook.com/Bsideslisbon
+      linkedin: https://www.linkedin.com/company/bsideslisbon
+      X.com: https://x.com/Bsideslisbon
+    city: Lisbon
+    year: 2023
 - title: 'Unlocking RFID Security: A Deep Dive into Flipper Zero and the Vulnerabilities
     of Multiclass'
   category: Hardware Security
@@ -39,7 +65,7 @@
     for ML models. The presentation includes a demonstration and discusses open source
     tools for security and mitigation.
   video: https://www.youtube.com/watch?v=RlzbAmf7u40
-  duration: 0:00:00
+  duration: 0:56:54
   pub_date: '2024-02-16'
   conference:
     name: Cactuscon
@@ -63,7 +89,7 @@
     and tools for data collection, parsing, and analysis. It aims to help attendees
     quickly gain the necessary knowledge and skills for a career in Incident Response.
   video: https://www.youtube.com/watch?v=OmSdRXtZ_gM
-  duration: 0:00:00
+  duration: 0:56:24
   pub_date: '2024-02-16'
   conference:
     name: Cactuscon
@@ -162,7 +188,7 @@
     of SBOMs, helping attendees understand how to incorporate them into their security
     practices.
   video: https://www.youtube.com/watch?v=sSxoBRTNXbo
-  duration: 0:00:00
+  duration: 0:59:10
   pub_date: '2024-02-16'
   conference:
     name: Cactuscon
@@ -186,7 +212,7 @@
     consumers. It highlights the importance of security enforcement by the listener
     in the flexible yet powerful communication mechanism of webhooks.
   video: https://www.youtube.com/watch?v=Q-8lbpbE12w
-  duration: 0:00:00
+  duration: 0:41:56
   pub_date: '2024-02-16'
   conference:
     name: Cactuscon
@@ -290,7 +316,7 @@
     presentation aims to enhance investigations by incorporating these additional
     data sources.
   video: https://www.youtube.com/watch?v=Vpk47W1W5v8
-  duration: 0:00:00
+  duration: 0:49:38
   pub_date: '2024-02-16'
   conference:
     name: Cactuscon
