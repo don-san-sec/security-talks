@@ -30,24 +30,8 @@ Breakdown into domains is subjective and may change over time.
   <summary>Current breakdown is the following</summary>
   
 - Application Security
-  - Secure Coding Practices
-  - Authentication and Authorization
-  - Threat Modeling and Risk Assessment
-  - Security Testing and Auditing
 - Security Operations
-  - Incident Response and Forensics (includes Reverse Engineering)
-  - Threat Detection
-  - Threat Intelligence
-  - Security Architecture and Tooling
-  - Identity and Access Management (IAM)
 - Offensive Security
-  - Penetration Testing (includes Red Teaming)
-  - Exploit Development
-  - Malware Development
-  - Wireless Security
-  - Physical Security
-  - Security Research often used for Vulnerability Discovery.
-  - Social Engineering
 - Emerging Technology Security
   - AI Security
   - Blockchain Security
