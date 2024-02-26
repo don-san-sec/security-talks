@@ -130,22 +130,22 @@
       mastodon: https://infosec.exchange/@SEC_T
       X.com: https://x.com/SEC_T_org
     year: 2023
-- title: 'Pwning for plaintext: A hashcat 2.0 adventure'
-  category: Offensive Security
+- title: 'Obtaining data from locked iOS devices via live monitoring'
+  category: Hardware Security
   tags:
-  - password cracking
-  - hashcat
-  summary: This talk explores creative password cracking techniques for attacking
-    longer passwords, passphrases with delimiters, emojis, and using hashes to crack
-    hashes. It covers lesser-known rule insertion techniques and ways to identify
-    and eliminate redundant and non-executing rules to optimize attacks.
-  video: https://www.youtube.com/watch?v=ed6ntD6HexI
-  duration: 0:40:56
-  pub_date: '2023-09-15'
+  - forensics
+  - iOS
+  summary: This talk discusses a method for extracting data from locked iOS devices
+    by monitoring raw data sent via USB protocol. It covers techniques for live monitoring
+    and parsing of system logs and USB data to recover sensitive information without
+    needing to unlock the device.
+  video: https://www.youtube.com/watch?v=fX6oXego2tg
+  duration: 0:40:21
+  pub_date: '2024-02-19'
   conference:
     name: SEC-T
     event: '0x0F'
-    website: https://www.sec-t.org
+    website: https://www.sec-t.org/
     channel: https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR
     socials:
       facebook: https://www.facebook.com/SECT.Sweden

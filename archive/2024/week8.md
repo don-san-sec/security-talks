@@ -169,6 +169,11 @@ The talk discusses the ongoing struggle between spyware developers and the cyber
 The talk provides an overview of using the checkm8 exploit for executing custom code on vulnerable devices, with a focus on jailbreaking the Apple HomePod. It covers the process from achieving BootROM code execution to installing system-wide tweaks and SSH, and discusses the practical applications of a jailbroken HomePod.  
 🎙️  **Nullcon Goa 2023** [Website](https://nullcon.net) [Youtube](https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR) [Linkedin](https://www.linkedin.com/company/nullcon)  [X.com](https://x.com/nullcon)    
 
+- [**Obtaining data from locked iOS devices via live monitoring**](https://www.youtube.com/watch?v=fX6oXego2tg)    
+`🏷️ forensics`  `🏷️ iOS`  
+This talk discusses a method for extracting data from locked iOS devices by monitoring raw data sent via USB protocol. It covers techniques for live monitoring and parsing of system logs and USB data to recover sensitive information without needing to unlock the device.  
+🎙️  **SEC-T 0x0F** [Website](https://www.sec-t.org/) [Youtube](https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR) [Facebook](https://www.facebook.com/SECT.Sweden)  [Mastodon](https://infosec.exchange/@SEC_T)  [X.com](https://x.com/SEC_T_org)    
+
 ## Offensive Security
 - [**Self-Signed, Why Not! Exploiting Insecure Certificate Validation In IOS And MacOS**](https://www.youtube.com/watch?v=bWidokJKuUc)    
 `🏷️ TLS`  
