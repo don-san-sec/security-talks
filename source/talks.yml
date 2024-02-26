@@ -130,10 +130,8 @@
       mastodon: https://infosec.exchange/@SEC_T
       X.com: https://x.com/SEC_T_org
     year: 2023
-
 - title: 'Obtaining data from locked iOS devices via live monitoring'
   category: Hardware Security
-  subcategory: None
   tags:
   - forensics
   - iOS
