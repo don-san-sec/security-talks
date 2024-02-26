@@ -158,3 +158,81 @@ This talk explores the importance of putting a leash on AI algorithms and how bl
 This talk examines the practical use of large language models (LLMs) and generative AI in cybersecurity, distinguishing between realistic applications and those that are overhyped. It explores proven use cases like threat analysis automation from OSINT sources and speculative ideas such as auto-generating exploits. The discussion emphasizes the importance of separating hype from reality, the limitations of LLMs, and the need for thoughtful integration and human-machine teaming in applying AI to enhance cybersecurity.  
 🎙️  **BSides Lisbon 2023** [Website](https://bsideslisbon.org) [Youtube](https://www.youtube.com/playlist?list=PLbuNP88_wbNzLYSSF-3ZpUj3NEXaFrHkO) [Facebook](https://www.facebook.com/Bsideslisbon)  [Linkedin](https://www.linkedin.com/company/bsideslisbon)  [X.com](https://x.com/Bsideslisbon)    
 
+- [**Cybersecurity is GeoPolitical: Lessons From the Fight Against Mercenary Spyware Proliferation**](https://www.youtube.com/watch?v=lByB-GhWRgs)    
+`🏷️ spyware`  `🏷️ regulation`  `🏷️ geopolitics`  
+The talk discusses the ongoing struggle between spyware developers and the cybersecurity community, highlighting the political rather than technical challenges in combating spyware proliferation. It emphasizes the role of regulation gaps and political alignment in the success of mercenary spyware and suggests that addressing these political dimensions could help in controlling spyware spread. The lessons learned from this fight are applicable to broader cybersecurity challenges.  
+🎙️  **SANS DFIR CTI Summit 2024** [Website](https://www.sans.org/digital-forensics-incident-response/) [Youtube](https://www.youtube.com/playlist?list=PLfouvuAjspTrkS6Hndwr7-e8F6I5iWW2E) [Linkedin](https://www.linkedin.com/showcase/sans-digital-forensics-and-incident-response)  [X.com](https://x.com/dfirsummit)    
+
+## Hardware Security
+- [**Jailbreaking The Apple HomePod: Fun With Checkm8 And Smart Speakers.**](https://www.youtube.com/watch?v=C04YXQk3zlE)    
+`🏷️ jailbreak`  
+The talk provides an overview of using the checkm8 exploit for executing custom code on vulnerable devices, with a focus on jailbreaking the Apple HomePod. It covers the process from achieving BootROM code execution to installing system-wide tweaks and SSH, and discusses the practical applications of a jailbroken HomePod.  
+🎙️  **Nullcon Goa 2023** [Website](https://nullcon.net) [Youtube](https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR) [Linkedin](https://www.linkedin.com/company/nullcon)  [X.com](https://x.com/nullcon)    
+
+## Offensive Security
+- [**Self-Signed, Why Not! Exploiting Insecure Certificate Validation In IOS And MacOS**](https://www.youtube.com/watch?v=bWidokJKuUc)    
+`🏷️ TLS`  
+The talk discusses the insecure validation of server certificates in iOS and macOS, highlighting historical and ongoing vulnerabilities. It introduces certmitm, a tool for discovering vulnerabilities in TLS clients by exploiting connections. The talk also covers the process of finding these vulnerabilities and their implications for penetration testers and bug bounty hunters.  
+🎙️  **Nullcon Goa 2023** [Website](https://nullcon.net) [Youtube](https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR) [Linkedin](https://www.linkedin.com/company/nullcon)  [X.com](https://x.com/nullcon)    
+
+- [**BingBang: Hacking Bing.com (and much more) with Azure Active Directory**](https://www.youtube.com/watch?v=l4hA2eZuMF8)    
+`🏷️ azure`  `🏷️ misconfigurations`  `🏷️ XSS`  
+The talk discusses a novel scanning technique for identifying misconfigurations in Azure Active Directory (AAD), which was used to bypass authentication, alter search results, and launch XSS attacks on Bing.com. This technique also uncovered thousands of exposed applications across the internet.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**Becoming a Dark Knight: Adversary Emulation Demonstration for ATT&CK Evaluations**](https://www.youtube.com/watch?v=ulktZxdN6nA)    
+`🏷️ APT`  `🏷️ Adversary emulation`  `🏷️ TTP`  
+The talk discusses how the MITRE ATT&CK Evaluations team emulates advanced threat actors to improve cybersecurity. By studying real-world villains, developing malware, and executing operations against EDR vendors, they provide valuable insights for defenders. The process, including the use of a Latin American APT for emulation, is shared openly to benefit the industry.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders**](https://www.youtube.com/watch?v=3aZGGPrffew)    
+`🏷️ H.264`  `🏷️ vulnerabilities`  `🏷️ exploit development`  
+The talk discusses the security risks associated with modern video encoding standards like H.264, focusing on the complexity and vulnerabilities within video decoders. It introduces H26Forge, a framework designed to exploit these vulnerabilities by crafting specific video files.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**Evasion Tactics of SideCopy & APT36**](https://www.youtube.com/watch?v=-1F6nRbh2fc)    
+`🏷️ TTP`  
+The talk discusses the evasion tactics used by SideCopy & APT36, focusing on their persistent targeting of Indian defense organizations.  
+🎙️  **c0c0n 16** [Website](https://india.c0c0n.org/2023) [Youtube](https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ) [Facebook](https://www.facebook.com/pages/c0c0n/137968402889465)  [Linkedin](https://www.linkedin.com/company/c0c0nconference)  [X.com](https://x.com/_c0c0n_)    
+
+## Cryptography
+- [**More Crypto from the FRA**](https://www.youtube.com/watch?v=aHxDRjGZgI4)    
+`🏷️ Enigma`  `🏷️ Lorenz`  `🏷️ History`  
+This talk discusses the efforts of the Swedish and other allied forces in intercepting and analyzing Lorenz SZ40/42 machine traffic, known as 'Tunny', during World War II. It highlights the role of the FRA and other entities in breaking the codes of various German crypto machines, including the Enigma and Gehimeschriber.  
+🎙️  **SEC-T 0x0F** [Website](https://www.sec-t.org/) [Youtube](https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR) [Facebook](https://www.facebook.com/SECT.Sweden)  [Mastodon](https://infosec.exchange/@SEC_T)  [X.com](https://x.com/SEC_T_org)    
+
+## Data Privacy
+- [**Know Thy Enemy: The Taxonomies That Meta Uses to Map the Offensive Privacy Space**](https://www.youtube.com/watch?v=dau9plCrwoE)    
+`🏷️ MITRE CVE`  `🏷️ MITRE CAPEC`  `🏷️ MITRE ATT&CK`  
+The talk discusses the development and use of privacy-inclusive taxonomies by Meta to track privacy weaknesses, enumerate adversarial tactics, techniques, and procedures (TTPs), and align security and privacy efforts. It highlights the importance of such taxonomies, similar to MITRE's CVE, CAPEC, and ATT&CK frameworks, in understanding privacy threats and guiding detection and remediation strategies.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+- [**The Yandex Leak: How a Russian Search Giant Uses Consumer Data**](https://www.youtube.com/watch?v=qAqkOPadkDA)    
+`🏷️ leak`  `🏷️ behavioral analytics`  
+The talk discusses the leak of 45 GB of source code from Yandex, including technologies for user analytics and behavioral analytics. It explores how this Russian search giant uses consumer data.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
+## Miscellaneous
+- [**Tractors, Rockets and the Internet in Belarus**](https://www.youtube.com/watch?v=z_vCawlLOpA)    
+`🏷️ surveillance`  `🏷️ repression`  
+This talk explores how the Belarusian authoritarian regime utilizes technology for surveillance and repression. It discusses the transformation of Belarus into a technologically advanced authoritarian state, focusing on the control and monitoring of the population's loyalty. The presentation highlights the use of technology in the wave of repressions following the 2020 uprising against President Alexander Lukashenko.  
+🎙️  **Chaos Communication Congress 37** [Website](https://events.ccc.de/congress) [Youtube](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2ZaHqsvqyBCrm8EdCTvkIxr) [X.com](https://x.com/ccc)    
+
+## Soft Skills
+- [**Slow Cooking and Cyber Threat Intelligence: Cooking a High-Performing Team**](https://www.youtube.com/watch?v=sO1D-mvOiq8)    
+`🏷️ CTI`  `🏷️ leadership`  `🏷️ team-building`  
+This talk explores the concept of building and maturing cyber threat intelligence (CTI) teams by drawing parallels between the art of slow cooking and team development. It emphasizes the importance of patience, preparation, and diversity in creating high-performing teams. The session covers the roles of security leadership, communication, and collaboration, and offers practical steps for engaging employees, creating safe and diverse environments, and evaluating and growing teams. The approach is likened to slow cooking, where nurturing relationships transforms individuals into a cohesive unit. The talk aims to guide leaders in starting or improving their CTI programs with practical lessons, tips, and templated content.  
+🎙️  **SANS DFIR CTI Summit 2024** [Website](https://www.sans.org/digital-forensics-incident-response/) [Youtube](https://www.youtube.com/playlist?list=PLfouvuAjspTrkS6Hndwr7-e8F6I5iWW2E) [Linkedin](https://www.linkedin.com/showcase/sans-digital-forensics-and-incident-response)  [X.com](https://x.com/dfirsummit)    
+
+## Career Development
+- [**The Cyber-Hobbit:There and Back Again in CTI**](https://www.youtube.com/watch?v=XrZS87BuTQU)    
+`🏷️ CTI`  `🏷️ mentorship`  
+This talk draws parallels between 'The Hobbit' and the journey into the field of cyber threat intelligence (CTI), emphasizing the importance of embracing unexpected opportunities, seeking mentorship, adapting to challenges, acquiring specialized training, gaining hands-on experience, and career growth. It highlights how these elements contribute to personal and professional development in cybersecurity.  
+🎙️  **SANS DFIR CTI Summit 2024** [Website](https://www.sans.org/digital-forensics-incident-response/) [Youtube](https://www.youtube.com/playlist?list=PLfouvuAjspTrkS6Hndwr7-e8F6I5iWW2E) [Linkedin](https://www.linkedin.com/showcase/sans-digital-forensics-and-incident-response)  [X.com](https://x.com/dfirsummit)    
+
+## Cloud Security
+- [**Beyond Cryptojacking: Studying Contemporary Malware in the Cloud**](https://www.youtube.com/watch?v=MVwiDcJZTwU)    
+`🏷️ CTI`  `🏷️ serverless`  `🏷️ containerisation`  
+The talk explores the evolution of cloud-focused malware campaigns beyond cryptojacking, highlighting their shift towards serverless environments, containers, and managed services. It provides technical insights into the tactics, techniques, and procedures (TTPs) of these malware families, including how they gain initial access and evade detection in cloud environments. The speaker will share knowledge on detection opportunities for defenders and discuss new trends in cloud threat intelligence.  
+🎙️  **SANS DFIR CTI Summit 2024** [Website](https://www.sans.org/digital-forensics-incident-response/) [Youtube](https://www.youtube.com/playlist?list=PLfouvuAjspTrkS6Hndwr7-e8F6I5iWW2E) [Linkedin](https://www.linkedin.com/showcase/sans-digital-forensics-and-incident-response)  [X.com](https://x.com/dfirsummit)    
+
