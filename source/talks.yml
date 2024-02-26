@@ -798,14 +798,14 @@
   video: https://www.youtube.com/watch?v=lByB-GhWRgs
   duration: 0:46:57
   pub_date: '2024-02-20'
-   conference:
-    name: SANS DFIR CTI Summit 2024
-    website: https://www.sans.org/digital-forensics-incident-response/
-    channel: https://www.youtube.com/playlist?list=PLfouvuAjspTrkS6Hndwr7-e8F6I5iWW2E
-    socials:
-      linkedin: https://www.linkedin.com/showcase/sans-digital-forensics-and-incident-response
-      X.com: https://x.com/dfirsummit
-    year: 2024
+  conference:
+  name: SANS DFIR CTI Summit 2024
+  website: https://www.sans.org/digital-forensics-incident-response/
+  channel: https://www.youtube.com/playlist?list=PLfouvuAjspTrkS6Hndwr7-e8F6I5iWW2E
+  socials:
+    linkedin: https://www.linkedin.com/showcase/sans-digital-forensics-and-incident-response
+    X.com: https://x.com/dfirsummit
+  year: 2024
 - title: 'Why Won''t They Listen? Connecting your CTI to Decision Makers'
   category: Security Operations
   tags:
