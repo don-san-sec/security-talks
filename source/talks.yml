@@ -1,3 +1,382 @@
+- title: Chinese APT against Government officials using G7 summit lure
+  category: Offensive Security
+  tags:
+  - Malware Analysis
+  - APT
+  summary: This talk provides an overview of the Royal Builder malware toolkit and
+    how it has been used by multiple APT groups for targeted attacks over the past
+    six years. The speaker shares insights on tracking these threat groups and staying
+    ahead of them proactively. He discuss a specific case of a Chinese APT group
+    targeting G7 Summit attendees and the techniques they used, including spear-phishing
+    attacks and DLL side-loading.
+  video: https://www.youtube.com/watch?v=QkQ9kSaG9WA
+  duration: 0:16:42
+  pub_date: '2024-02-28'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: Generative AI and Cyber Crimes by Brijesh Singh, IPS
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - generative AI
+  - malware
+  summary: The talk discusses the increasing use of generative AI in cyber attacks
+    and the augmented capabilities it provides to attackers. It highlights the sophistication
+    and resilience of generative AI-assisted attacks, including the production of
+    high-quality malware and evasion of detection algorithms. The talk also emphasizes
+    the need for organizations and countries to invest in generative AI for defensive
+    purposes and to understand and counter the malicious use of these technologies.
+  video: https://www.youtube.com/watch?v=kbEw9jWH2ic
+  duration: 0:21:39
+  pub_date: '2024-02-28'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: Uncovering the Hidden Dangers Lurking as Android Apps using ML Algos
+  category: Security Operations
+  tags:
+  - malware analysis
+  - machine learning
+  summary: This talk explores the use of machine learning algorithms, specifically
+    support vector machines (SVM), for malware analysis. The speaker discusses the
+    Flame framework, which extracts labeled call graphs for Android applications and
+    maps them to determine if an application is malicious or not. The talk highlights
+    the challenges and limitations of using machine learning algorithms for malware
+    analysis and emphasizes the importance of combining dynamic analysis with machine
+    learning techniques.
+  video: https://www.youtube.com/watch?v=fgM3d7-aFBc
+  duration: 0:22:02
+  pub_date: '2024-02-28'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: Start Left SDLC Security with Open-Source DevSecOps Tooling
+  category: Application Security
+  tags:
+  - DevOps
+  - SAST
+  - DAST
+  summary: This talk focuses on implementing a start left approach to application
+    security in the DevOps process. It covers various aspects such as threat modeling,
+    software composition analysis, static application security testing (SAST), dynamic
+    application security testing (DAST), container scanning, infrastructure scanning,
+    and application security posture management. The talk emphasizes the importance
+    of collaboration between stakeholders and a risk-based approach to security.
+  video: https://www.youtube.com/watch?v=TD4R8CCY2QA
+  duration: 0:45:51
+  pub_date: '2024-02-28'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: 'Deconstructing The Beast: A Deep Dive Into JIT Compilation Attacks In IOS'
+  category: Application Security
+  subcategory: None
+  tags:
+  - iOS
+  - JIT
+  summary: The talk provides an overview of iOS architecture and security mechanisms,
+    focusing on Just-In-Time (JIT) Compilation and its role in security attacks. It
+    includes a case study of a JIT Compilation Attack on iOS, detailing the attack
+    process, exploited vulnerability, and aftermath. The presentation concludes with
+    a discussion on preventive strategies and countermeasures to mitigate such threats.
+  video: https://www.youtube.com/watch?v=ma4objhW7qk
+  duration: 0:24:09
+  pub_date: '2024-02-27'
+  conference:
+    name: Nullcon
+    event: Goa 2023
+    website: https://nullcon.net
+    channel: https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR
+    socials:
+      linkedin: https://www.linkedin.com/company/nullcon
+      X.com: https://x.com/nullcon
+    year: 2023
+- title: Mapping the Ransomware Payment Ecosystem & Threat Actor Behavior
+  category: Emerging Technology Security
+  subcategory: Blockchain Security
+  tags:
+  - ransomware
+  - cryptocurrency
+  summary: The talk will present a map of the ransomware payment ecosystem, detailing
+    the process from attack to cash out. It will outline the information produced
+    at each stage and the entities with visibility into these processes.
+  video: https://www.youtube.com/watch?v=bFrw-qvaIRs
+  duration: 0:38:01
+  pub_date: '2024-02-29'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: 'TSSHOCK: Breaking MPC Wallets and Digital Custodians for $BILLION$ Profit'
+  category: Emerging Technology Security
+  subcategory: Blockchain Security
+  tags:
+  - cryptocurrency
+  - exploit
+  summary: The talk discusses how attackers can exploit 0-day attacks to steal cryptocurrency
+    from MPC digital custodian vaults and wallets. It focuses on the vulnerabilities
+    in the Threshold Signature Scheme (TSS), a cryptographic protocol used by many
+    financial institutions for transaction authorization in blockchain ecosystems.
+  video: https://www.youtube.com/watch?v=5mlQb8PEF3A
+  duration: 0:26:39
+  pub_date: '2024-02-26'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'A SSLippery Slope: Unraveling the Hidden Dangers of Certificate Misuse'
+  category: Cryptography
+  tags:
+  - digital signatures
+  - code signing
+  summary: This talk discusses the importance of digital signatures for verifying
+    the authenticity and integrity of digital content. It highlights the challenges
+    in obtaining code signing certificates compared to SSL or S/MIME certificates,
+    emphasizing the rigorous validation required for the publisher.
+  video: https://www.youtube.com/watch?v=ocNvemaCyHk
+  duration: 0:32:19
+  pub_date: '2024-02-26'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Sure, Let Business Users Build Their Own. What Could Go Wrong?
+  category: Application Security
+  tags:
+  - low code
+  - no code
+  summary: This talk discusses the challenges and risks associated with low code and
+    no code development platforms. It highlights the importance of security controls
+    and the need for security professionals to take ownership of securing these applications.
+    The speaker shares real-world examples of issues such as data exposure, insecure
+    sharing, and injection vulnerabilities. The talk also provides resources for raising
+    awareness among business users, implementing security standards, leveraging automation
+    for monitoring, and addressing the scale of low code and no code development.
+  video: https://www.youtube.com/watch?v=Pth5_qobLqk
+  duration: 0:43:34
+  pub_date: '2024-02-27'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Why Cyber Insurance Should be Your SOC''s New Best Friend'
+  category: Governance, Risk, and Compliance
+  tags:
+  - insurance
+  summary: In this talk, the speaker shares alarming statistics about breaches and
+    hacks that organizations are facing. She discusses the increasing sophistication
+    of threat actors, the rise of ransomware and funds transfer fraud, and the
+    importance of protecting against human error. She also highlight the role of
+    insurance companies in providing pre-claim assistance, incident response plans,
+    and ongoing scanning to help organizations mitigate risks.
+  video: https://www.youtube.com/watch?v=0qzxDBhjxeM
+  duration: 0:39:03
+  pub_date: '2024-02-28'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/Catherine_Lyle.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'The Integration Cyber Security and Insurance: The Journey of Cysurance'
+  category: Governance, Risk, and Compliance
+  tags:
+  - insurance
+  - risk
+  summary: This talk discusses the integration of risk management and infosec in the
+    context of cyber insurance. The speaker shares her journey from a supply chain
+    background to the world of infosec and highlights the importance of understanding
+    the value of data and its impact on organizations. The talk also touches on the
+    challenges of the cyber insurance market and the need for standardization and
+    certification of security products.
+  video: https://www.youtube.com/watch?v=hghDWS5XodM
+  duration: 0:34:21
+  pub_date: '2024-02-28'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/Kirsten_Bay.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Bridging Cyber and Insurance
+  category: Governance, Risk, and Compliance
+  tags:
+  - insurance
+  summary: In this talk, the speaker draws parallels between historical points in
+    time and the evolution of cyber insurance. The talk also discusses the role of cyber
+    insurance in hedging against cyber threats and the need for organizations to continuously
+    improve their security programs.
+  video: https://www.youtube.com/watch?v=06qXkyberGc
+  duration: 0:30:49
+  pub_date: '2024-02-29'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/BH-23-Caruthers-Bridge-Not-Too-Far.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Leverage and Demonstrate Value with your Cyber Insurance Renewal
+  category: Governance, Risk, and Compliance
+  tags:
+  - insurance
+  summary: This talk focuses on the importance of having a solid cybersecurity program
+    in order to be insurable.
+  video: https://www.youtube.com/watch?v=e6JgOOWMx3w
+  duration: 0:28:52
+  pub_date: '2024-02-29'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/Erik_Decker.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: The 9th Annual Black Hat USA Network Operations Center (NOC) Report
+  category: Security Operations
+  tags:
+  - WiFi
+  - statistics
+  summary: The talk presents annual statistics and insights from the Black Hat Network
+    Operations Center (NOC) team. It covers the tools and techniques used for network
+    setup, stabilization, and security, along with changes made over the past year
+    to improve operations. The presentation also highlights humorous network activities
+    and what they reveal about security professionals' behavior on an open WiFi network.
+  video: https://www.youtube.com/watch?v=6lVR54kYu8w
+  duration: 0:40:05
+  pub_date: '2024-03-01'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Lessons Learned from the KA-SAT Cyberattack: Response, Mitigation and Information
+    Sharing'
+  category: Security Operations
+  tags:
+  - cyberattack
+  - malware
+  summary: This talk covers the cyberattack on geostationary telecommunications
+    satellite network in which caused a partial outage affecting users in Ukraine and
+    Europe. It details the deployment of malware and network-based attacks aimed at denying
+    connectivity, the challenges faced by operational teams in real-time response, and the
+    prolonged nature of the attacks. The presentation aims to share insights and lessons
+    learned from managing and mitigating the incident.
+  video: https://www.youtube.com/watch?v=RdjthhBylMk
+  duration: 0:44:28
+  pub_date: '2024-03-01'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
 - title: 'Get Deception In Your Environment Now!'
   category: Security Operations
   tags:
