@@ -103,7 +103,6 @@
     year: 2023
 - title: 'Deconstructing The Beast: A Deep Dive Into JIT Compilation Attacks In IOS'
   category: Application Security
-  subcategory: None
   tags:
   - iOS
   - JIT

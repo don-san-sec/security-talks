@@ -44,16 +44,15 @@ This talk covers the cyberattack on geostationary telecommunications satellite n
 This talk focuses on implementing a start left approach to application security in the DevOps process. It covers various aspects such as threat modeling, software composition analysis, static application security testing (SAST), dynamic application security testing (DAST), container scanning, infrastructure scanning, and application security posture management. The talk emphasizes the importance of collaboration between stakeholders and a risk-based approach to security.  
 🎙️  **c0c0n 16** [Website](https://india.c0c0n.org/2023) [Youtube](https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ) [Facebook](https://www.facebook.com/pages/c0c0n/137968402889465)  [Linkedin](https://www.linkedin.com/company/c0c0nconference)  [X.com](https://x.com/_c0c0n_)    
 
-- [**Sure, Let Business Users Build Their Own. What Could Go Wrong?**](https://www.youtube.com/watch?v=Pth5_qobLqk)    
-`🏷️ low code`  `🏷️ no code`  
-This talk discusses the challenges and risks associated with low code and no code development platforms. It highlights the importance of security controls and the need for security professionals to take ownership of securing these applications. The speaker shares real-world examples of issues such as data exposure, insecure sharing, and injection vulnerabilities. The talk also provides resources for raising awareness among business users, implementing security standards, leveraging automation for monitoring, and addressing the scale of low code and no code development.  
-🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
-
-### None
 - [**Deconstructing The Beast: A Deep Dive Into JIT Compilation Attacks In IOS**](https://www.youtube.com/watch?v=ma4objhW7qk)    
 `🏷️ iOS`  `🏷️ JIT`  
 The talk provides an overview of iOS architecture and security mechanisms, focusing on Just-In-Time (JIT) Compilation and its role in security attacks. It includes a case study of a JIT Compilation Attack on iOS, detailing the attack process, exploited vulnerability, and aftermath. The presentation concludes with a discussion on preventive strategies and countermeasures to mitigate such threats.  
 🎙️  **Nullcon Goa 2023** [Website](https://nullcon.net) [Youtube](https://www.youtube.com/playlist?list=PLv84MTo7Io20Vdg0ExpfmiHnR-TZtybTR) [Linkedin](https://www.linkedin.com/company/nullcon)  [X.com](https://x.com/nullcon)    
+
+- [**Sure, Let Business Users Build Their Own. What Could Go Wrong?**](https://www.youtube.com/watch?v=Pth5_qobLqk)    
+`🏷️ low code`  `🏷️ no code`  
+This talk discusses the challenges and risks associated with low code and no code development platforms. It highlights the importance of security controls and the need for security professionals to take ownership of securing these applications. The speaker shares real-world examples of issues such as data exposure, insecure sharing, and injection vulnerabilities. The talk also provides resources for raising awareness among business users, implementing security standards, leveraging automation for monitoring, and addressing the scale of low code and no code development.  
+🎙️  **Black Hat USA 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
 
 ## Cryptography
 - [**A SSLippery Slope: Unraveling the Hidden Dangers of Certificate Misuse**](https://www.youtube.com/watch?v=ocNvemaCyHk)    
