@@ -1,3 +1,1100 @@
+- title: Harvesting low hanging fruits in Red Teaming Exercises
+  category: Offensive Security
+  tags:
+  - Red Team
+  - Default Credentials
+  - NTLMv1
+  summary: Discussion on various easy methods to advance within red team operations by
+    exploiting common vulnerabilities such as default credentials, weak passwords, NTLMv1
+    hashes, local admin accounts, and web browser credentials.
+  video: https://www.youtube.com/watch?v=HmtsUtZkfTM
+  duration: 0:29:49
+  pub_date: '2024-03-10'
+  conference:
+    name: BSides Athens
+    event: '2023'
+    website: https://www.bsidesath.gr/
+    channel: https://www.youtube.com/playlist?list=PL7WzoM1ttDZj7OY5rY_Gr5AeyGQhiTS9y
+    socials:
+      facebook: https://www.facebook.com/BSidesAthens
+      linkedin: https://www.linkedin.com/company/security-bsides-athens
+      X.com: https://x.com/BSidesAth
+    city: Athens
+    year: 2023
+- title: Hacking your favorite Kiosk
+  category: Offensive Security
+  tags:
+  - Kiosk
+  summary: Exploration of attacking kiosks in various locations like coffee shops,
+    restaurants, and libraries, by exploiting loopholes in their isolated environment
+    and applications.
+  video: https://www.youtube.com/watch?v=HmtsUtZkfTM
+  duration: 0:19:21
+  pub_date: '2024-03-10'
+  conference:
+    name: BSides Athens
+    event: '2023'
+    website: https://www.bsidesath.gr/
+    channel: https://www.youtube.com/playlist?list=PL7WzoM1ttDZj7OY5rY_Gr5AeyGQhiTS9y
+    socials:
+      facebook: https://www.facebook.com/BSidesAthens
+      linkedin: https://www.linkedin.com/company/security-bsides-athens
+      X.com: https://x.com/BSidesAth
+    city: Athens
+    year: 2023
+- title: 'Get MADD, Not Glad: Metrics for ATT&CK-driven detection'
+  category: Security Operations
+  tags:
+  - metrics
+  - ATT&CK
+  - detection
+  summary: This talk focuses on developing and utilizing metrics for ATT&CK-driven
+    detection to enhance security operations.
+  video: https://www.youtube.com/watch?v=RhAa4VCK7U4
+  duration: 0:24:31
+  pub_date: '2024-03-05'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: Threat Detection Engineering Metrics
+  category: Security Operations
+  tags:
+  - metrics
+  - performance
+  summary: The talk focuses on the importance of metrics in threat detection engineering.
+    It discusses how to effectively measure and evaluate the performance of threat
+    detection systems.
+  video: https://www.youtube.com/watch?v=JxMdNsmxufQ
+  duration: 0:54:58
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: Keeping Exchange Blue with a Walled Garden
+  category: Security Operations
+  tags:
+  - Microsoft Exchange
+  summary: The talk focuses on strategies for securing Microsoft Exchange environments
+    by implementing a 'walled garden' approach. It covers techniques to isolate and
+    protect the system from threats.
+  video: https://www.youtube.com/watch?v=cVlYAfdlLE4
+  duration: 0:28:42
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: 'Are You Committed to Secret Free Version Control?'
+  category: Application Security
+  tags:
+  - version control
+  - secrets management
+  - best practices
+  summary: This talk discusses the importance of maintaining version control systems
+    without storing secrets, emphasizing best practices for security.
+  video: https://www.youtube.com/watch?v=Z9GPWBdjefQ
+  duration: 0:23:01
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: Sigma and MISP visualization for the masses
+  category: Security Operations
+  tags:
+  - Sigma
+  - MISP
+  - visualization
+  summary: The talk focuses on the use of Sigma and MISP for data visualization, making
+    it accessible to a wider audience.
+  video: https://www.youtube.com/watch?v=6NdLxL1a6sc
+  duration: 0:31:58
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: 'Easy Mode Deception Technology Deployments @ Scale'
+  category: Security Operations
+  tags:
+  - deception
+  - scalability
+  - integration
+  summary: This talk discusses the implementation of deception technology on a large
+    scale, focusing on simplifying the deployment process. It covers strategies for
+    effectively integrating deception tools into existing security frameworks to enhance
+    detection and response capabilities.
+  video: https://www.youtube.com/watch?v=ZeOeo3QqcFY
+  duration: 0:28:44
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: 'I Don''t Know You! - One Way of Verifying Contacts'
+  category: Security Operations
+  tags:
+  - verification
+  - identity
+  summary: This talk discusses a method for verifying the identity of contacts in
+    a security context. It explores challenges and solutions in ensuring that communications
+    and interactions are with legitimate entities.
+  video: https://www.youtube.com/watch?v=YhOCSiQR9F4
+  duration: 0:21:50
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: Network Fingerprinting
+  category: Security Operations
+  tags:
+  - networking
+  - fingerprinting
+  summary: This talk focuses on JA4+ Network Fingerprinting, a technique for identifying
+    and analyzing network traffic patterns to improve defense operations.
+  video: https://www.youtube.com/watch?v=tfNwxVYjZUQ
+  duration: 0:47:23
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Operations Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei-vAF6WuZWTC0NfZ83hF2t
+    city: McLean
+    year: 2023
+- title: Anticipating the Next Stages of the AI Revolution
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - AI
+  summary: The talk focuses on the future developments in artificial intelligence
+    and how they will impact security practices. It explores the need for proactive
+    measures in anticipation of the evolving AI landscape.
+  video: https://www.youtube.com/watch?v=gseJThSHXDc
+  duration: 0:41:14
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Philosophy Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei7sWFR_ozSSRsgl7SO-j1o
+    city: McLean
+    year: 2023
+- title: Breaking down the wall between art and science; artists can type fast too
+  category: Career Development
+  tags:
+  - creativity
+  summary: The talk explores the intersection between art and science, emphasizing
+    that artists can also excel in technical fields by leveraging their unique skills.
+  video: https://www.youtube.com/watch?v=VbemOlman9E
+  duration: 0:31:58
+  pub_date: '2024-03-05'
+  conference:
+    name: ACoD
+    event: 2023 Philosophy Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei7sWFR_ozSSRsgl7SO-j1o
+    city: McLean
+    year: 2023
+- title: Maturing your security program means leveling up, personally
+  category: Career Development
+  tags:
+  - personal growth
+  summary: The talk discusses the importance of personal growth in the process of
+    maturing a security program. It emphasizes on the need for individuals to level
+    up their skills and knowledge to enhance the effectiveness of their security strategies.
+  video: https://www.youtube.com/watch?v=7nHU5I1a9WA
+  duration: 0:44:57
+  pub_date: '2024-03-05'
+  conference:
+    name: ACoD
+    event: 2023 Philosophy Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei7sWFR_ozSSRsgl7SO-j1o
+    city: McLean
+    year: 2023
+- title: 'It''s the Economy, Stupid: Tackling Technical Debt in Times of Economic
+  Uncertainty'
+  category: Governance, Risk, and Compliance
+  tags:
+  - technical debt
+  - risk
+  summary: The talk discusses strategies for managing technical debt during periods
+    of economic uncertainty. It emphasizes the importance of addressing technical
+    debt to maintain operational efficiency and reduce risks.
+  video: https://www.youtube.com/watch?v=9XVxzwNTVoc
+  duration: 0:44:39
+  pub_date: '2024-03-05'
+  conference:
+    name: ACoD
+    event: 2023 Philosophy Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei7sWFR_ozSSRsgl7SO-j1o
+    city: McLean
+    year: 2023
+- title: 'Less is Not More: Sharing Richer Indicators'
+  category: Security Operations
+  tags:
+  - indicators
+  - cybersecurity
+  - defense
+  summary: The talk discusses the importance of sharing detailed indicators in cybersecurity.
+    It argues against the minimalist approach and advocates for providing richer,
+    more comprehensive data to improve defense mechanisms.
+  video: https://www.youtube.com/watch?v=kd2_b0CIUwk
+  duration: 0:39:50
+  pub_date: '2024-03-05'
+  conference:
+    name: ACoD
+    event: 2023 Philosophy Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei7sWFR_ozSSRsgl7SO-j1o
+    city: McLean
+    year: 2023
+- title: Motivation & incentive systems that shape the dynamics of the cybersecurity industry
+  category: Governance, Risk, and Compliance
+  tags:
+  - motivation
+  - incentives
+  - founders
+  summary: The talk discusses the motivation and incentive systems that influence
+    the cybersecurity industry, focusing on their impact on security practitioners
+    and individuals aspiring to become founders.
+  video: https://www.youtube.com/watch?v=EK8Zui96rSg
+  duration: 0:51:13
+  pub_date: '2024-03-04'
+  conference:
+    name: ACoD
+    event: 2023 Philosophy Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei7sWFR_ozSSRsgl7SO-j1o
+    city: McLean
+    year: 2023
+- title: A machine quantifiable approach to risk quantification
+  category: Governance, Risk, and Compliance
+  tags:
+  - risk
+  - quantification
+  - machine
+  summary: The talk presents a method for quantifying risk using machine-based approaches.
+    It focuses on how to measure risk in a way that is understandable and actionable
+    for machines.
+  video: https://www.youtube.com/watch?v=lZnsfdejZ8g
+  duration: 0:47:21
+  pub_date: '2024-03-05'
+  conference:
+    name: ACoD
+    event: 2023 Philosophy Track
+    website: https://artintoscience.com
+    channel: https://www.youtube.com/playlist?list=PLvdbQ8u4Ozei7sWFR_ozSSRsgl7SO-j1o
+    city: McLean
+    year: 2023
+- title: 'Formshaker'
+  category: Offensive Security
+  tags:
+  - XSS
+  - JavaScript
+  - exploitation
+  summary: 'Formshaker is a JavaScript library designed to act as a proxy between
+    websites and attackers, enhancing the latter''s capabilities in exploiting XSS
+    vulnerabilities. It enables attackers to crawl websites, collect HTML forms, and
+    manipulate these forms within a victim''s session.'
+  video: https://www.youtube.com/watch?v=wqv6Gh8v1_Y
+  duration: 0:34:07
+  pub_date: '2024-03-11'
+  conference:
+    name: Hacktivity
+    event: '20'
+    website: https://hacktivity.com/
+    channel: https://www.youtube.com/playlist?list=PLbrZ_OVEaffIhjsJQglO0jiQT_01Oum9W
+    socials:
+      facebook: https://www.facebook.com/hacktivity
+      X.com: https://x.com/hacktivityconf
+    city: Budapest
+    year: 2023
+- title: 'That''s Just a Tool — Not Good Nor Bad. That Part is Up to YOU'
+  category: Offensive Security
+  tags:
+  - RedTeam
+  - PowerShell
+  - Windows
+  summary: The talk explores the dual nature of admin tools, showing how they can
+    be used for both legitimate remote administration and malicious attacks. It covers
+    technical examples from consulting on remote operations architectures and Red
+    Team assessments, focusing on Windows 'Living off the land' techniques, protocols,
+    and APIs. The presentation discusses the pros and cons of jump server architectures,
+    role-based shells, and ways to limit PowerShell, including a demonstration of
+    a secure, audited, and encrypted CLI that can manipulate remote sessions without
+    exposing credentials.
+  video: https://www.youtube.com/watch?v=OQ_vWws0FK0
+  duration: 0:34:11
+  pub_date: '2024-03-06'
+  resources: null
+  conference:
+    name: Hacktivity
+    event: '20'
+    website: https://hacktivity.com/
+    channel: https://www.youtube.com/playlist?list=PLbrZ_OVEaffIhjsJQglO0jiQT_01Oum9W
+    socials:
+      facebook: https://www.facebook.com/hacktivity
+      X.com: https://x.com/hacktivityconf
+    city: Budapest
+    year: 2023
+- title: 'The Power of Coercion Techniques in Windows Environments'
+  category: Offensive Security
+  tags:
+  - PetitPotam
+  - Windows
+  - misconfigurations
+  summary: This talk demonstrates how coercion techniques, such as PetitPotam or Printer
+    Bug, can still be exploited in Windows environments to take over systems, despite
+    beliefs that they have been fixed. It focuses on their use in conjunction with
+    other vulnerabilities or misconfigurations, particularly in Active Directory Certificate
+    Service, and discusses countermeasures and the importance of fixing these issues.
+  video: https://www.youtube.com/watch?v=buSyt3vZRuk
+  duration: 0:38:57
+  pub_date: '2024-03-04'
+  conference:
+    name: Hacktivity
+    event: '20'
+    website: https://hacktivity.com/
+    channel: https://www.youtube.com/playlist?list=PLbrZ_OVEaffIhjsJQglO0jiQT_01Oum9W
+    socials:
+      facebook: https://www.facebook.com/hacktivity
+      X.com: https://x.com/hacktivityconf
+    city: Budapest
+    year: 2023
+- title: 'Security Through Transparency: Scaling Your Customer Trust Program'
+  category: Governance, Risk, and Compliance
+  tags:
+  - transparency
+  - scaling
+  - trust
+  summary: The talk discusses how scaling a Customer Trust Program with limited resources
+    can be achieved through increased transparency. It suggests using a public-facing
+    wiki, bundling security documents, and starting a security Q&A database to share
+    security program highlights with stakeholders. This approach aims to replace the
+    legacy method of answering security questionnaires and sending out SOC 2 reports,
+    facilitating faster sales cycles and a stronger reputation.
+  video: https://www.youtube.com/watch?v=AKB60fBiEHg
+  duration: 0:36:49
+  pub_date: '2024-03-12'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'How I Learned to Stop Worrying and Build a Modern Detection & Response Program'
+  category: Security Operations
+  tags:
+  - framework
+  - detection
+  - response
+  summary: The talk discusses the absence of a comprehensive framework for detection
+    and response programs in cybersecurity. It aims to provide attendees with an understanding
+    of the capabilities required for a modern program and offers a framework to develop
+    or enhance their own programs.
+  video: https://www.youtube.com/watch?v=7kp5sxuzcoE
+  duration: 0:38:06
+  pub_date: '2024-03-12'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Silent But Deadly
+  category: Security Operations
+  tags:
+  - exfiltration
+  summary: The talk discusses the use of ultrasonic sound as a means for exfiltrating
+    data from air-gapped systems.
+  video: https://www.youtube.com/watch?v=Kp3HO0NN75o
+  duration: 0:51:56
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: 'Chained Exploitation: Perpectives in Security Testing'
+  category: Security Operations
+  tags:
+  - penetration testing
+  - EDR
+  summary: This talk discusses the importance of connecting the dots in security testing
+    for both defenders and attackers. The speaker shares observations and shortcomings
+    in the industry, such as the high cost of security testing, the difficulty in
+    interpreting penetration testing reports, and the siloed nature of testing teams.
+  video: https://www.youtube.com/watch?v=liaB1FeLuAA
+  duration: 0:55:27
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: Your Security Black Hole
+  category: Emerging Technology Security
+  subcategory: IoT Security
+  tags:
+  - OT security
+  - availability
+  - Purdue model
+  summary: This talk focuses on the challenges of securing OT (Operational Technology)
+    environments, which include critical infrastructure such as dams, transportation,
+    and manufacturing. The speaker explains the differences between IoT (Internet
+    of Things) and OT devices, emphasizing the importance of availability in OT environments.
+    He discusses the lack of security controls, default usernames and passwords, and
+    the difficulty of patching OT devices.
+  video: https://www.youtube.com/watch?v=6en1jyTP0vw
+  duration: 0:37:55
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: 'Artificial Insecurity: Secure code in LLMs? It AI-n''t happening'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - LLMs
+  summary: This talk explores the potential of using large language models (LLMs)
+    for code generation and the security implications that come with it.
+  video: https://www.youtube.com/watch?v=nj93gy39cGc
+  duration: 0:35:40
+  pub_date: '2024-03-08'
+  resources: null
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: Hacking 101
+  category: Security Operations
+  tags:
+  - data analytics
+  - hacking techniques
+  - identity protection
+  summary: The talk discusses the importance of understanding hacking techniques in
+    order to defend against them. It emphasizes the need for collecting and analyzing
+    data to identify potential threats and vulnerabilities.
+  video: https://www.youtube.com/watch?v=abH507SimOM
+  duration: 0:48:01
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: ChatGPT for Security Analysts
+  category: Security Operations
+  tags:
+  - LLM
+  - AI
+  summary: This talk speaker shares his experience of using ChatGPTG code analysis,
+    threat intelligence extraction, threat hunting, and code generation.
+  video: https://www.youtube.com/watch?v=3pk3icRC2qw
+  duration: 0:49:44
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: 'Identity and Security: It''s time for a Hug'
+  category: Security Operations
+  tags:
+  - identity
+  - security challenges
+  - identity ownership
+  summary: This talk discusses the importance of identity in security and the challenges
+    organizations face in managing identity. The speaker shares observations from
+    their experience in the industry and highlights the need for identity to be owned
+    by the security team.
+  video: https://www.youtube.com/watch?v=yyfOrzivkko
+  duration: 0:38:28
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: Offensive Security Through a GRC Lens
+  category: Governance, Risk, and Compliance
+  tags:
+  - GRC
+  - offensive security
+  - red teaming
+  summary: This talk explores the idea of leveraging GRC (Governance, Risk, and Compliance)
+    to enhance offensive security practices.
+  video: https://www.youtube.com/watch?v=ky4xvwk3py0
+  duration: 0:54:27
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: The Million Dollar CEO Fraud
+  category: Security Operations
+  tags:
+  - social engineering
+  - phishing
+  - email
+  summary: This talk explores the anatomy of a business email compromise incident,
+    highlighting the potential damage and fallout that can occur. The speaker shares
+    their personal experience investigating a real incident and provides insights
+    into the techniques and indicators of compromise used by threat actors.
+  video: https://www.youtube.com/watch?v=NlCoACTso_g
+  duration: 0:49:32
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: Hacking on Bug Bounties for 10 years
+  category: Offensive Security
+  tags:
+  - bugbounty
+  - hacking
+  summary: This talk provides insights, strategies, and anecdotes from a decade of
+    experience in Bug Bounties. It aims to enlighten and inspire both seasoned professionals
+    and curious enthusiasts.
+  video: https://www.youtube.com/watch?v=aqMyveKjMSA
+  duration: 0:36:35
+  pub_date: '2024-03-08'
+  conference:
+    name: BSides Ahmedabad
+    event: '2023'
+    website: https://bsidesahmedabad.in
+    channel: https://www.youtube.com/channel/UCPXygU1E0THhOYOjLmPCZRg
+    socials:
+      facebook: https://www.facebook.com/bsidesahmedabad
+      linkedin: https://www.linkedin.com/company/bsides-ahmedabad
+      X.com: https://x.com/bsidesahmedabad
+    city: Ahmedabad
+    year: 2023
+- title: 'Electryone: in the land with no sun'
+  category: Emerging Technology Security
+  subcategory: IoT Security
+  tags:
+  - solar panels
+  summary: The talk discusses the vulnerabilities in solar PV panels and their potential
+    impact on power grids.
+  video: https://www.youtube.com/watch?v=JODb4VB8xmc
+  duration: 0:21:00
+  pub_date: '2024-03-10'
+  conference:
+    name: BSides Athens
+    event: '2023'
+    website: https://www.bsidesath.gr/
+    channel: https://www.youtube.com/playlist?list=PL7WzoM1ttDZj7OY5rY_Gr5AeyGQhiTS9y
+    socials:
+      facebook: https://www.facebook.com/BSidesAthens
+      linkedin: https://www.linkedin.com/company/security-bsides-athens
+      X.com: https://x.com/BSidesAth
+    city: Athens
+    year: 2023
+- title: Who said that Python was UNIX Best Friend Only?
+  category: Offensive Security
+  tags:
+  - Python
+  - Windows
+  summary: This talk explores the use of Python in the Windows ecosystem for hunting,
+    reverse engineering, and malware analysis. The speaker discusses how Python can
+    be easily installed on Windows systems and showcases various techniques and libraries
+    that can be used for offensive purposes.
+  video: https://www.youtube.com/watch?v=HmtsUtZkfTM
+  duration: 0:28:09
+  pub_date: '2024-03-10'
+  conference:
+    name: BSides Athens
+    event: '2023'
+    website: https://www.bsidesath.gr/
+    channel: https://www.youtube.com/playlist?list=PL7WzoM1ttDZj7OY5rY_Gr5AeyGQhiTS9y
+    socials:
+      facebook: https://www.facebook.com/BSidesAthens
+      linkedin: https://www.linkedin.com/company/security-bsides-athens
+      X.com: https://x.com/BSidesAth
+    city: Athens
+    year: 2023
+- title: The Evolution of Cyber Security and What to Expect Next
+  category: Security Operations
+  tags:
+  - lessons learned
+  summary: In this talk, the speaker shares their experiences and lessons learned
+    from their career in cybersecurity, spanning different continents and various
+    cyber cases. They discuss the challenges faced in investigating cyber espionage,
+    advanced persistent threats, cyber extortion, and insider threats. The speaker
+    emphasizes the importance of a strong security culture, the convergence of physical
+    and cyber security, and the need for continuous learning and adaptation in the
+    ever-evolving cyber landscape.
+  video: https://www.youtube.com/watch?v=psF20s_Z2yE
+  duration: 0:53:55
+  pub_date: '2024-03-10'
+  conference:
+    name: BSides Athens
+    event: '2023'
+    website: https://www.bsidesath.gr/
+    channel: https://www.youtube.com/playlist?list=PL7WzoM1ttDZj7OY5rY_Gr5AeyGQhiTS9y
+    socials:
+      facebook: https://www.facebook.com/BSidesAthens
+      linkedin: https://www.linkedin.com/company/security-bsides-athens
+      X.com: https://x.com/BSidesAth
+    city: Athens
+    year: 2023
+- title: 'Serverless Siege: AWS Lambda'
+  category: Cloud Security
+  tags:
+  - serverless
+  summary: This talk discusses serverless applications, their architectures, data
+    persistence, challenges in Lambda V testing, and vulnerabilities recognized by
+    OWASP. The speakers provide a demo of a vulnerable Python application showcasing
+    various vulnerabilities like injection, SSRF, command injection, and more. They
+    also cover defense and monitoring strategies, including AWS native services like
+    Amazon GuardDuty and CloudTrail, as well as remediation techniques for common
+    vulnerabilities.
+  video: https://www.youtube.com/watch?v=s9gWqkPjVP8
+  duration: 0:35:10
+  pub_date: '2024-03-11'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: Finding Adversary Infrastructure Before the Attack
+  category: Security Operations
+  tags:
+  - threat intelligence
+  summary: The talk discusses the concept of Threat Intelligence 2.0, focusing on
+    proactive defense by identifying malicious infrastructure before it's used in
+    attacks. It emphasizes the importance of data collection methodologies and the
+    creation of new data points for tracking threat actors' tactics, techniques, and
+    procedures (TTPs). The presentation covers how to use these data points and patterns
+    to uncover unknown infrastructure related to known threat actors, enabling organizations
+    to defend themselves proactively.
+  video: https://www.youtube.com/watch?v=OB2uHcI5OWk
+  duration: 0:45:33
+  pub_date: '2024-03-12'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: Can Your Gym Equipment Be Attracting Security Threats?
+  category: Emerging Technology Security
+  subcategory: IoT Security
+  tags:
+  - vulnerabilities
+  summary: The talk explores security vulnerabilities in internet-connected workout
+    equipment, focusing on the Peloton Treadmill. It highlights the importance of
+    awareness and mitigation of security risks in IoT devices, offering tips on protecting
+    these devices from potential attacks.
+  video: https://www.youtube.com/watch?v=M-CuVNS_qgg
+  duration: 0:34:53
+  pub_date: '2024-03-08'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: 'AI and Modern Security Operations: Hype vs Reality'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - LLM
+  summary: The talk explores how advanced defenders use AI to improve operational
+    efficiency, automate alert analysis, and discover new attacks.
+  video: https://www.youtube.com/watch?v=VCr2CbF6p9U
+  duration: 0:19:45
+  pub_date: '2024-03-05'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: 'Idea to Realization: Cybersecurity Entrepreneurship'
+  category: Career Development
+  tags:
+  - entrepreneurship
+  summary: This talk provides practical advice for aspiring cybersecurity founders
+    on starting their entrepreneurial journey, including initial steps and overcoming
+    industry challenges.
+  video: https://www.youtube.com/watch?v=J4Dsqjt9wR4
+  duration: 0:39:27
+  pub_date: '2024-03-04'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: What We Can Learn from Ukraine's Cyber Defenders about Building a More Resilient
+    Future
+  category: Governance, Risk, and Compliance
+  tags:
+  - geopolitics
+  summary: The talk focuses on Ukraine's resilience against Russian cyber attacks,
+    highlighting the importance of preparation, response, recovery, and learning in
+    cybersecurity. It discusses the need for building resilience in technology and
+    communities to face future threats.
+  video: https://www.youtube.com/watch?v=uVErrDWfAKM
+  duration: 0:40:41
+  pub_date: '2024-03-05'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: National Cybersecurity Strategy and Workforce Efforts
+  category: Governance, Risk, and Compliance
+  tags:
+  - national cybersecurity
+  summary: The talk covers National Cybersecurity Strategy Implementation Plan and
+    the National Cyber Workforce and Education Strategy, detailing the efforts and
+    plans for enhancing national cybersecurity.
+  video: https://www.youtube.com/watch?v=UINrqnkWxYY
+  duration: '1:00:52'
+  pub_date: '2024-03-05'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Forward Focus: Perspectives on AI, Hype, and Security'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - privacy
+  - regulation
+  summary: The talk discusses the impact of AI hype on the security industry, including
+    the challenges of rapid adoption, privacy concerns, proposed regulations, and
+    legal issues. It explores the implications of AI in security and the potential
+    consequences of not adopting AI technologies.
+  video: https://www.youtube.com/watch?v=um41l2VfvAg
+  duration: 0:38:32
+  pub_date: '2024-03-05'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Entrepreneur''s Dilemma: Managing Growth and Dedication to Product Quality'
+  category: Career Development
+  tags:
+  - entrepreneurship
+  summary: This talk focuses on the challenges of managing growth and maintaining
+    product quality in the security industry. It covers strategies for strong customer
+    engagement and evaluates the pros and cons of relying on external partnerships
+    for growth.
+  video: https://www.youtube.com/watch?v=12VcSsn57kI
+  duration: 0:42:27
+  pub_date: '2024-03-05'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Reverse Engineering the Customized Pointer Authentication Hardware Implementation
+    on Apple M1
+  category: Hardware Security
+  tags:
+  - Apple
+  - Reverse Engineering
+  - PA
+  summary: This talk focuses on the reverse engineering of Apple's customized Pointer
+    Authentication (PA) hardware implementation on Apple Silicon. It explores the
+    security enhancements provided by PA since its deployment in 2018 and delves into
+    the previously unexplained mechanisms that protect against cross-EL/Key attacks.
+  video: https://www.youtube.com/watch?v=RByIu2zjjVg
+  duration: 0:39:40
+  pub_date: '2024-03-06'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Zec-Apple-PAC-Four-Years-Later.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Radiation Spikes Detected in Chernobyl During Russian Invasion Show Possible
+    Evidence of Fabrication
+  category: Emerging Technology Security
+  subcategory: IoT Security
+  tags:
+  - fabrication
+  summary: The talk discusses the detection of abnormal radiation levels in the Chernobyl
+    Exclusion Zone during the Russian invasion of Ukraine. It explores the possibility
+    that the spikes in radiation, initially attributed to the movement of heavy military
+    vehicles, might have been fabricated. The focus is on the role of the Automatic
+    Radiation Monitoring System in detecting these anomalies.
+  video: https://www.youtube.com/watch?v=R0-h1qV5ZGc
+  duration: 0:38:31
+  pub_date: '2024-03-06'
+  resources:
+    slides: https://i.blackhat.com/BH-US-23/Presentations/US-23-Santamarta-Seeing-Through-The-Invisible.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: The Accidental Discovery of a New Vulnerability in Google's OAuth Implementation
+  category: Application Security
+  tags:
+  - OAuth
+  summary: The talk discusses a client impersonation vulnerability found in Google's
+    first-party applications in early 2021. This vulnerability could allow attackers
+    to impersonate these applications, gaining the same privileges. The discovery
+    highlights issues with ignoring RFCs and insecure practices like storing plaintext
+    passwords.
+  video: https://www.youtube.com/watch?v=77doS9hCe8A
+  duration: 0:48:29
+  pub_date: '2024-03-06'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: International Threat Actors are Targeting Children to Steal Money from Banks
+    & Major Corporations
+  category: Offensive Security
+  tags:
+  - social engineering
+  - scam
+  summary: The talk discusses how cyber threat actors are creating 'Malicious Marketing
+    as a Service' organizations. These organizations use legitimate .gov, .edu, and
+    .org websites to host scams. These scams are designed to appear on the first page
+    of search results for specific phrases, targeting children and gamers due to their
+    vulnerability and lower likelihood of reporting crimes. The scams involve tricking
+    victims into downloading malware or committing financial fraud.
+  video: https://www.youtube.com/watch?v=bYS4YvwmF8o
+  duration: 0:42:06
+  pub_date: '2024-03-06'
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: A Security RISC? The State of Microarchitectural Attacks on RISC-V
+  category: Hardware Security
+  tags:
+  - RISC-V
+  summary: This talk presents a systematic investigation of the microarchitectural
+    attack surface on commercially-available 64-bit RISC-V CPUs. It highlights the
+    importance of examining RISC-V CPUs for vulnerabilities due to their rising popularity
+    and the standardization of their instruction set architecture.
+  video: https://www.youtube.com/watch?v=HCZ6DCu2ciE
+  duration: 0:46:43
+  pub_date: '2024-03-11'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Gerlach-A-Security-RISC-The-State-of-Microarchitectural-Attacks-on-RISC-V.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Millions of Patient Records at Risk: The Perils of Legacy Protocols'
+  category: Emerging Technology Security
+  subcategory: IoT Security
+  tags:
+  - DICOM
+  - healthcare
+  summary: The talk discusses the security vulnerabilities of DICOM when exposed online,
+    based on internet-wide research. It shows how hackers can find, access, and exploit
+    DICOM endpoints to extract or alter patient data. The presentation also covers
+    methods to bypass DICOM security controls, highlighting the risks of legacy protocols
+    in healthcare.
+  video: https://www.youtube.com/watch?v=CgJIxTP8ydQ
+  duration: 0:36:57
+  pub_date: '2024-03-11'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Yazdanmehr-Millions_of_Patient_Records_at_Risk.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
 - title: Chinese APT against Government officials using G7 summit lure
   category: Offensive Security
   tags:
