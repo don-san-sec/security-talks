@@ -1,3 +1,340 @@
+- title: 'High Performance Java Cloud Native Apps'
+  category: Application Security
+  tags:
+  - Java
+  - microservices
+  - cloud-native
+  summary: The talk introduces EclipseStore, a new Java persistence approach designed
+    for next-generation enterprise applications, including containerized microservices
+    and serverless infrastructure.
+  video: https://www.youtube.com/watch?v=Xx2pEOjDo8A
+  duration: 0:52:51
+  pub_date: '2024-03-14'
+  conference:
+    name: GeeCON
+    event: '2023'
+    website: https://geecon.org
+    channel: https://www.youtube.com/playlist?list=PLxZQe6I1pYpedUOsvCDaTiW6V7Ga2KtlV
+    socials:
+      facebook: https://www.facebook.com/geecon.conference
+      linkedin: https://www.linkedin.com/company/geecon-conference
+      X.com: https://x.com/geecon
+    city: Prague
+    year: 2023
+- title: 'Machine Intelligence With Humans in Mind'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - ethics
+  - AI
+  summary: This talk discusses the importance of computer ethics in the context of
+    rapidly advancing machine intelligence. It explores the responsibilities of companies,
+    developers, and users in promoting ethical practices and addresses the challenge
+    of raising awareness about computer ethics.
+  video: https://www.youtube.com/watch?v=kScnFISPvCs
+  duration: 0:19:11
+  pub_date: '2024-03-14'
+  conference:
+    name: GeeCON
+    event: '2023'
+    website: https://geecon.org
+    channel: https://www.youtube.com/playlist?list=PLxZQe6I1pYpedUOsvCDaTiW6V7Ga2KtlV
+    socials:
+      facebook: https://www.facebook.com/geecon.conference
+      linkedin: https://www.linkedin.com/company/geecon-conference
+      X.com: https://x.com/geecon
+    city: Prague
+    year: 2023
+- title: 'Where Did All the Fun Go?'
+  category: Career Development
+  tags:
+  - Agile
+  - AI
+  summary: This talk takes a retrospective look at the evolution of the IT profession,
+    from a time of fun and creativity to the current perception of it as an elite,
+    value-driven field. It discusses the shift in work culture with the advent of
+    Agile and the impact of AI on jobs, emphasizing the need to reintegrate fun into
+    the profession.
+  video: https://www.youtube.com/watch?v=y4piBMx3wAw
+  duration: 0:20:23
+  pub_date: '2024-03-14'
+  conference:
+    name: GeeCON
+    event: '2023'
+    website: https://geecon.org
+    channel: https://www.youtube.com/playlist?list=PLxZQe6I1pYpedUOsvCDaTiW6V7Ga2KtlV
+    socials:
+      facebook: https://www.facebook.com/geecon.conference
+      linkedin: https://www.linkedin.com/company/geecon-conference
+      X.com: https://x.com/geecon
+    city: Prague
+    year: 2023
+- title: 'Uncovering Azure''s Silent Threats: A Story of Cloud Vulnerabilities'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - Azure
+  - ML
+  - credential security
+  - cloud security
+  summary: This talk explores the underlying platform of Azure machine learning service
+    and how to leverage it.
+  video: https://www.youtube.com/watch?v=jJ62Dhtr4PI
+  duration: 0:43:33
+  pub_date: '2024-03-14'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: 'Tackling Advanced Threat Landscape with MDR - Best Practices'
+  category: Security Operations
+  tags:
+  - MDR
+  summary: This talk focuses on the advanced threat landscape and how to tackle it
+    using managed detection and response. It discusses the current cyber security
+    threat landscape, including increased threat actor activity, ransomware attacks,
+    critical vulnerabilities, and supply chain attacks.
+  video: https://www.youtube.com/watch?v=CiI0ZGNqD0g
+  duration: 0:28:21
+  pub_date: '2024-03-16'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: Remarks from Christopher Wray, Director, Federal Bureau of Investigation
+  category: Career Development
+  tags:
+  - FBI
+  - leadership
+  summary: The talk features Christopher Wray, the Director of the Federal Bureau
+    of Investigation, discussing his career path and experiences.
+  video: https://www.youtube.com/watch?v=XN7xZSYP6qE
+  duration: 0:21:51
+  pub_date: '2024-03-15'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: 'How Secure Are We: Complexity is the enemy of Security'
+  category: Security Operations
+  tags:
+  - OT security
+  summary: This talk focuses on the challenges and strategies for securing operational
+    technology (OT) in the era of digital transformation. The speaker emphasizes the
+    need for a holistic approach to security, considering both IT and OT domains,
+    and highlights the importance of understanding the business and its operational
+    context.
+  video: https://www.youtube.com/watch?v=XubPa1g7jJg
+  duration: 0:43:28
+  pub_date: '2024-03-14'
+  conference:
+    name: BSides Calgary
+    event: '2023'
+    website: https://www.bsidescalgary.org
+    channel: https://www.youtube.com/playlist?list=PL_bQvKglE89AYFIxLpEpFw9LEWedsEHYa
+    socials:
+      linkedin: https://www.linkedin.com/groups/8507510
+      X.com: https://x.com/bsides_calgary/
+    city: Calgary
+    year: 2023
+- title: 'Till Recollapse: Fuzzing the Web for Mysterious Vulnerabilities'
+  category: Offensive Security
+  tags:
+  - bugbounty
+  - exploit
+  - WAF
+  summary: This talk explores how REcollapse can change the game in bug bounty hunting
+    and HackerOne Live Hacking Events by allowing for zero-interaction account takeovers
+    and revealing new methods to bypass web application firewalls.
+  video: https://www.youtube.com/watch?v=GSfJ3Sf24ZQ
+  duration: 0:42:50
+  pub_date: '2024-03-15'
+  conference:
+    name: BSides Ahmedabad
+    event: '2023'
+    website: https://bsidesahmedabad.in
+    channel: https://www.youtube.com/channel/UCPXygU1E0THhOYOjLmPCZRg
+    socials:
+      facebook: https://www.facebook.com/bsidesahmedabad
+      linkedin: https://www.linkedin.com/company/bsides-ahmedabad
+      X.com: https://x.com/bsidesahmedabad
+    city: Ahmedabad
+    year: 2023
+- title: REDIScovering HeadCrab - A Technical Analysis of a Novel Malware and the
+    Mind Behind It
+  category: Offensive Security
+  tags:
+  - malware
+  - Redis
+  summary: This talk explores HeadCrab, a sophisticated malware developed using custom
+    Redis Modules and API, by an advanced threat actor. It highlights the malware's
+    advanced techniques and its global infiltration since 2021.
+  video: https://www.youtube.com/watch?v=-Q_uAFb8_4E
+  duration: 0:39:13
+  pub_date: '2024-03-13'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Eitani-REDIScoveringHeadCrabATechnicalAnalysisOfANovelMalware.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'AutoSpill: Zero Effort Credential Stealing from Mobile Password Managers'
+  category: Application Security
+  tags:
+  - Android
+  - credential stealing
+  - password manager
+  summary: The talk introduces AutoSpill, a novel attack method to steal users' saved
+    credentials from mobile password managers (PMs) during autofill operations in
+    apps on Android, bypassing the secure autofill process.
+  video: https://www.youtube.com/watch?v=t-6YYdbjO7g
+  duration: 0:35:26
+  pub_date: '2024-03-13'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Gangwal-AutoSpill-Zero-Effort-Credential-Stealing.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Orchestrate This! Kubernetes Rootkit
+  category: Application Security
+  tags:
+  - rootkit
+  - Kubernetes
+  summary: The talk discusses the concept of a container-focused rootkit within Kubernetes
+    clusters. It covers the anatomy of a rootkit, specifics of a container-based rootkit,
+    its consequences, and strategies for mitigation including securing clusters and
+    detecting attacks.
+  video: https://www.youtube.com/watch?v=KHRs9de3qeQ
+  duration: 0:14:19
+  pub_date: '2024-03-14'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Lang-Orchstrate-this-Kubernetes-rootkit.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Reviving JIT Vulnerabilities: Unleashing the Power of Maglev Compiler Bugs
+    on Chrome Browser'
+  category: Application Security
+  tags:
+  - fuzzing
+  - vulnerabilities
+  - exploitation
+  summary: This talk explores the design principles of the Maglev JIT Compiler and
+    compares them with Turbofan to identify potential attack surfaces.
+  video: https://www.youtube.com/watch?v=iSEhCw1x--c
+  duration: 0:36:35
+  pub_date: '2024-03-14'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Liu-Reviving-JIT-Vulnerabilities.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: 'Hacking Your Documentation: Who Should WTFM?'
+  category: Career Development
+  tags:
+  - documentation
+  summary: This talk discusses the role of technical writers in security, emphasizing
+    their importance in documentation and their value in security development and
+    consulting. It aims to encourage security professionals to advocate for hiring
+    technical writers.
+  video: https://www.youtube.com/watch?v=Wv1viTn_UeE
+  duration: 0:17:17
+  pub_date: '2024-03-15'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Grey-Hacking-Your-Documentation.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
+- title: Deleting Your Domain? Preventing Data Leaks at TLD Scale
+  category: Emerging Technology Security
+  subcategory: None
+  tags:
+  - domain
+  - email
+  - privacy
+  summary: The talk introduces LEMMINGS, a system developed to alert former domain
+    owners about potential email-related risks after their domain is deleted.
+  video: https://www.youtube.com/watch?v=S-vieCNshPQ
+  duration: 0:40:29
+  pub_date: '2024-03-15'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Wullink-Deleting-Your-Domain-Preventing-REV2.pdf
+  conference:
+    name: Black Hat
+    event: USA 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: Las Vegas
+    year: 2023
 - title: Harvesting low hanging fruits in Red Teaming Exercises
   category: Offensive Security
   tags:
