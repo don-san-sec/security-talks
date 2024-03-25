@@ -1,3 +1,953 @@
+- title: 'MITM on PSTN — novel methods for intercepting phone calls'
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - spoofing
+  - AI
+  summary: The talk discusses vulnerabilities in PSTN and mobile networks, demonstrating
+    how old exploits can be combined with social engineering and AI for novel attacks.
+  video: https://www.youtube.com/watch?v=NCKgKNkVb68
+  duration: 0:33:47
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: Have you heard about DNS DR? How this shifts security from responsive to
+    proactive
+  featured: True
+  category: Security Operations
+  tags:
+  - DNS
+  - cybersecurity
+  - threat detection
+  summary: The talk discusses how DNS protocol can enhance cybersecurity through detection
+    and response mechanisms, highlighting its role in identifying and mitigating cyber
+    threats.
+  video: https://www.youtube.com/watch?v=JPnuCoJpaKY
+  duration: 0:33:53
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: Finding Vulnerabilities in Your Codebase Using Open Source Tools
+  category: Application Security
+  tags:
+  - open source
+  - fuzzing
+  summary: The talk covers various open source tools and techniques for finding vulnerabilities
+    in software, including taint analysis, fuzzing, secret scanning, and symbolic
+    execution.
+  video: https://www.youtube.com/watch?v=EqWcojnXrCE
+  duration: 0:32:52
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: 'A deep-dive Into DLL Hijacking — Discovery, Automation and Impact'
+  category: Offensive Security
+  tags:
+  - pentest
+  - privesc
+  summary: The talk provides a deep dive into DLL hijacking, including how to find
+    vulnerabilities, create malicious DLLs, and leverage them for privilege escalation.
+  video: https://www.youtube.com/watch?v=AMuk0YAHaNQ
+  duration: 0:27:27
+  pub_date: '2024-03-20'
+  resources: null
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: 'The JARM''ing Adventures of a Weaponized Security Tool'
+  featured: true
+  category: Offensive Security
+  tags:
+  - cyberwarfare
+  - threat intelligence
+  summary: The talk discusses tracing and disrupting the activities of PMC Wagner,
+    a group involved in cyber and physical operations, using various cybersecurity
+    tools and techniques.
+  video: https://www.youtube.com/watch?v=698x7O0IjYs
+  duration: 0:34:59
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: Attacking Developer Environment Through Drive-by Localhost Attacks
+  category: Application Security
+  tags:
+  - vulnerabilities
+  - exploitation
+  - web frameworks
+  summary: The talk discusses vulnerabilities found in web frameworks and how they
+    can be exploited to execute remote code or manipulate machine learning data.
+  video: https://www.youtube.com/watch?v=5QXGfquhx2Y
+  duration: 0:37:13
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: 'Security on the Edge — Safeguarding Smart Homes'
+  category: Emerging Technology Security
+  subcategory: IoT Security
+  tags:
+  - smart home
+  summary: The talk discusses the importance of securing smart home devices through
+    router-based security solutions, highlighting the challenges and strategies in
+    protecting IoT devices from vulnerabilities and attacks.
+  video: https://www.youtube.com/watch?v=5-abmYRTixo
+  duration: 0:27:59
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: 'Wheels of Wonder: Unveiling Car Hacking Poetry'
+  category: Emerging Technology Security
+  subcategory: IoT Security
+  tags:
+  - car hacking
+  - GPS
+  summary: The talk covers car hacking techniques, focusing on both physical and remote
+    access methods, including exploiting telematics control units and GPS spoofing.
+  video: https://www.youtube.com/watch?v=wDWadlqEAqY
+  duration: 0:19:55
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: Hardware Backdooring an e-Scooter
+  category: Hardware Security
+  tags:
+  - reverse engineering
+  - e-scooter
+  summary: The talk discusses hardware implant attacks on electric scooters, detailing
+    the process of reverse engineering and exploiting vulnerabilities in their communication
+    systems.
+  video: https://www.youtube.com/watch?v=pg5vwnfdvwA
+  duration: 0:29:59
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: 'Party Time: Building a Private Game Server by Reverse Engineering'
+  category: Security Operations
+  tags:
+  - reverse engineering
+  summary: The talk details the process of reverse engineering and building a private
+    server for the game SpyParty to enable play without an internet connection.
+  video: https://www.youtube.com/watch?v=ggy3DmIMpbg
+  duration: 0:21:45
+  pub_date: '2024-03-20'
+  conference:
+    name: DefCamp
+    event: '2023'
+    website: https://def.camp
+    channel: https://www.youtube.com/playlist?list=PLnwq8gv9MEKj1R7tGgBjg1OiSGCPgmU2c
+    socials:
+      facebook: https://www.facebook.com/DefCampRO
+      linkedin: https://www.linkedin.com/company/defcamp
+      X.com: https://x.com/defcampro
+    city: Bucharest
+    year: 2023
+- title: Detecting Network Beaconing With Convolutional Networks And Zeek Logs
+  category: Emerging Technology Security
+  subcategory: AI Security
+  tags:
+  - machine learning
+  - network security
+  - data analysis
+  summary: The talk explores using convolutional neural networks (CNNs) to detect
+    beaconing patterns in network security, focusing on the generation of synthetic
+    data sets and real-world application.
+  video: https://www.youtube.com/watch?v=giNvGQihAPo
+  duration: 0:30:24
+  pub_date: '2024-03-21'
+  conference:
+    name: BSides Basingstoke
+    event: '2023'
+    website: https://www.bsidesbasingstoke.com
+    channel: https://www.youtube.com/channel/UC6_azBlmOo9hnydhl4k6rSA
+    socials:
+      facebook: https://www.linkedin.com/company/bsides-basingstoke
+      linkedin: https://www.linkedin.com/company/bsides-basingstoke
+      X.com: https://x.com/BSidesBSK
+    city: Basingstoke
+    year: 2023
+- title: Finding A Vulnerability In Half Life
+  category: Offensive Security
+  tags:
+  - reverse engineering
+  summary: The talk covers the journey of discovering and exploiting a buffer overflow
+    vulnerability in Half-Life, including the process of reverse engineering and the
+    challenges faced due to mitigations like ASLR.
+  video: https://www.youtube.com/watch?v=oaCzNrB7ZTY
+  duration: 0:29:36
+  pub_date: '2024-03-21'
+  conference:
+    name: BSides Basingstoke
+    event: '2023'
+    website: https://www.bsidesbasingstoke.com
+    channel: https://www.youtube.com/channel/UC6_azBlmOo9hnydhl4k6rSA
+    socials:
+      facebook: https://www.linkedin.com/company/bsides-basingstoke
+      linkedin: https://www.linkedin.com/company/bsides-basingstoke
+      X.com: https://x.com/BSidesBSK
+    city: Basingstoke
+    year: 2023
+- title: Red Red Whine
+  category: Offensive Security
+  tags:
+  - red team
+  - pentest
+  summary: The talk discusses the evolution of cybersecurity practices from vulnerability
+    scanning to red teaming, emphasizing the differences between red teaming and penetration
+    testing, and the importance of aligning red team engagements with real-world attack
+    scenarios.
+  video: https://www.youtube.com/watch?v=cwPKf1MHNxU
+  duration: 0:31:11
+  pub_date: '2024-03-21'
+  conference:
+    name: BSides Basingstoke
+    event: '2023'
+    website: https://www.bsidesbasingstoke.com
+    channel: https://www.youtube.com/channel/UC6_azBlmOo9hnydhl4k6rSA
+    socials:
+      facebook: https://www.linkedin.com/company/bsides-basingstoke
+      linkedin: https://www.linkedin.com/company/bsides-basingstoke
+      X.com: https://x.com/BSidesBSK
+    city: Basingstoke
+    year: 2023
+- title: 'FIDObituary: The Death Of Passwords'
+  featured: True
+  category: Security Operations
+  tags:
+  - passwordless
+  - cryptography
+  - authentication
+  summary: This talk explores the limitations of traditional password authentication
+    and introduces FIDO Authentication as a modern, secure alternative.
+  video: https://www.youtube.com/watch?v=eLBR_zmAh0g
+  duration: 0:40:40
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: Batter Up! Why Is Japan Still Batting In The Minor League Of Cybersecurity?
+  category: Governance, Risk, and Compliance
+  subcategory: null
+  tags:
+  - cybersecurity
+  - global events
+  summary: This talk examines the challenges and necessary improvements in Japan's
+    cybersecurity landscape in the context of recent global events and cyber activities
+    from neighboring countries.
+  video: https://www.youtube.com/watch?v=bvxnMz0a2-g
+  duration: 0:19:52
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: Security Lessons Learnt From The Cloud Frontline
+  category: Cloud Security
+  tags:
+  - attacks
+  - best-practices
+  summary: The talk discusses customer-side attacks in cloud environments and simple
+    practices to mitigate these threats.
+  video: https://www.youtube.com/watch?v=VNlXYrJ677k
+  duration: 0:32:15
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: 'Navigating The Open-Source Security Fog: A Case Study Of Messy Vulnerability
+    Data'
+  category: Application Security
+  tags:
+  - vulnerability
+  - open-source
+  - risk management
+  summary: The talk discusses the challenges of managing security risks in open-source
+    software through the case study of a remote code execution vulnerability in OpenTSDB.
+  video: https://www.youtube.com/watch?v=PngBLghgzdk
+  duration: 0:32:36
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: 'Mobile App Vulnerabilities: The Bad, The Worse And The Ugly'
+  category: Application Security
+  tags:
+  - mobile
+  - attack vectors
+  summary: This talk covers the three main attack vectors for mobile apps and demonstrates
+    how they can be exploited using real-life examples.
+  video: https://www.youtube.com/watch?v=I2n900XuXtE
+  duration: 0:41:53
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: Advanced Paranoia For Developers
+  category: Application Security
+  tags:
+  - API
+  - DevOps
+  - exploits
+  summary: This talk explores real exploits in APIs to teach defensive coding, testing,
+    and DevOps practices.
+  video: https://www.youtube.com/watch?v=Hez01mtJKNQ
+  duration: 0:33:07
+  pub_date: '2024-03-19'
+  resources: null
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: 'Criminal Cooperation: Lessons From The Dark Side'
+  category: Security Operations
+  tags:
+  - collaboration
+  - cybercriminals
+  - posture management
+  summary: This talk explores how the collaboration between security teams and IT
+    can reduce cyber threats by learning from cybercriminal cooperation.
+  video: https://www.youtube.com/watch?v=0jZ0lVoPpms
+  duration: 0:33:42
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: The Safety Law Of An Idiot Next To You
+  category: Application Security
+  tags:
+  - WEB
+  summary: This talk shares the experience of spotting and addressing a web attack
+    that was initially missed, highlighting the importance of vigilance in digital
+    security.
+  video: https://www.youtube.com/watch?v=0YjF-HOK95o
+  duration: 0:35:41
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: 'Hardware-based Security: Gimmick Or Game-Changer?'
+  category: Hardware Security
+  tags:
+  - CHERI
+  - memory-safety
+  summary: This talk evaluates the role of CHERI technology and the Digital Security
+    by Design programme in enhancing hardware-based security against memory-safety
+    vulnerabilities.
+  video: https://www.youtube.com/watch?v=zpr3hr2MNeM
+  duration: 0:38:48
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: Dipping Our Toes Into Cryptovirology
+  featured: True
+  category: Cryptography
+  tags:
+  - ransomware
+  - encryption
+  summary: This talk explores how ransomware uses cryptography to encrypt files and
+    how flaws in cryptovirology can be exploited to decrypt files.
+  video: https://www.youtube.com/watch?v=zQbGjiTIQeA
+  duration: 0:36:30
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: Penetration Testing Using Windows Features
+  category: Offensive Security
+  subcategory: null
+  tags:
+  - WSL
+  - WSA
+  - Windows Sandbox
+  summary: This talk provides an overview of how Windows features like WSL, WSA, and
+    Windows Sandbox can be utilized for penetration testing.
+  video: https://www.youtube.com/watch?v=pJa32yEKU5Y
+  duration: 0:24:48
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: 'Cloud-Squatting: The Never-Ending Misery Of Deleted And Forgotten Cloud
+    Assets'
+  featured: True
+  category: Cloud Security
+  tags:
+  - cloud-squatting
+  - DNS
+  summary: This talk discusses the challenge of cloud squatting attacks and how TikTok
+    addressed this issue.
+  video: https://www.youtube.com/watch?v=hOTfmpYlje4
+  duration: 0:25:57
+  pub_date: '2024-03-19'
+  conference:
+    name: BSides Belfast
+    event: '2023'
+    website: https://bsidesbelfast.org
+    channel: https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss
+    socials:
+      linkedin: https://www.linkedin.com/company/bsides-belfast-c.i.c.
+      X.com: https://x.com/bsidesbelfast
+    city: Belfast
+    year: 2023
+- title: Trust Resiliency - A Lesson Learned from Russia Ukraine War
+  category: Cryptography
+  tags:
+  - trust
+  - certificates
+  - geopolitics
+  summary: The talk discusses the importance of trust in cryptography, the concept
+    of trust chains, and the geopolitical implications of certificate authority actions.
+  video: https://www.youtube.com/watch?v=5ucoLAzyMHo
+  duration: 0:16:01
+  pub_date: '2024-03-19'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: 'Enhancing Red Team OPSEC: Abusing Stealthy In-Memory Binary Execution
+    Techniques in Linux'
+  category: Offensive Security
+  tags:
+  - Linux
+  - evasion
+  - malware
+  summary: The talk discusses techniques for executing binaries in memory on Linux
+    systems to evade detection.
+  video: https://www.youtube.com/watch?v=V6g1ms54X6o
+  duration: 0:35:26
+  pub_date: '2024-03-20'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: 'Smart Contract Phishing - Attack & Defense'
+  category: Emerging Technology Security
+  subcategory: Blockchain Security
+  tags:
+  - smart contracts
+  - phishing
+  summary: The talk discusses the risks and attack vectors associated with smart contract
+    phishing in the blockchain and DeFi ecosystems.
+  video: https://www.youtube.com/watch?v=VIweBz_6IsU
+  duration: 0:39:52
+  pub_date: '2024-03-22'
+  conference:
+    name: c0c0n
+    event: '16'
+    website: https://india.c0c0n.org/2023
+    channel: https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ
+    socials:
+      facebook: https://www.facebook.com/pages/c0c0n/137968402889465
+      linkedin: https://www.linkedin.com/company/c0c0nconference
+      X.com: https://x.com/_c0c0n_
+    city: Kochi
+    year: 2023
+- title: NSEC2023 - Burp Suite Pro tips and tricks, the sequel
+  category: Offensive Security
+  tags:
+  - Burp Suite
+  - automation
+  - pentesting
+  summary: This talk provides strategies to enhance the efficiency of bug hunting
+    and penetration testing workflows using Burp Suite and its extensions.
+  video: https://www.youtube.com/watch?v=N7BN--CMOMI
+  duration: 0:30:45
+  pub_date: '2024-03-18'
+  conference:
+    name: NorthSec
+    event: '2023'
+    website: https://nsec.io
+    channel: https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw
+    socials:
+      discord: https://discord.com/invite/ThftxKumsG
+      linkedin: https://www.linkedin.com/company/northsec
+      facebook: https://www.facebook.com/northsec.io
+      mastodon: https://infosec.exchange/@NorthSec
+      X.com: https://x.com/NorthSec_io
+    city: Montreal
+    year: 2023
+- title: Hotspots of Malicious Domains - Patterns and Trends
+  featured: True
+  category: Security Operations
+  tags:
+  - domain
+  - phishing
+  - malware
+  summary: This talk examines six domain features to identify their association with
+    malicious activity, revealing some expected and unexpected findings.
+  video: https://www.youtube.com/watch?v=tqjt4bb7fRw
+  duration: 0:45:28
+  pub_date: '2024-03-19'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: How to Win Friends, Influence People, and Actually Inform your Business about
+    Cybersecurity Risks
+  category: Soft Skills
+  tags:
+  - communication
+  - influence
+  summary: This talk provides tips on effectively communicating cyber risks to executives
+    and boards of directors to enable informed business decisions.
+  video: https://www.youtube.com/watch?v=FlE_OpZ2egU
+  duration: 0:48:28
+  pub_date: '2024-03-22'
+  conference:
+    name: mWISE
+    event: '2023'
+    website: https://mwise.mandiant.com
+    channel: https://www.youtube.com/playlist?list=PLdkRFluYWTrLOrFPjb8ZdjqPGJNyacWPd
+    socials:
+      X.com: https://x.com/mwiseconference
+      linkedin: https://www.linkedin.com/showcase/mwise-conference
+    city: Washington
+    year: 2023
+- title: 'How to Hack and Defend (Your) Open Source?'
+  category: Application Security
+  tags:
+  - open-source
+  - CI/CD
+  summary: The talk discusses techniques for compromising assets through open source
+    tools and frameworks, and offers practical solutions for enhancing security in
+    development processes.
+  video: https://www.youtube.com/watch?v=DQDAuNG0jG0
+  duration: 0:43:00
+  pub_date: '2024-03-19'
+  conference:
+    name: Hacktivity
+    event: '20'
+    website: https://hacktivity.com/
+    channel: https://www.youtube.com/playlist?list=PLbrZ_OVEaffIhjsJQglO0jiQT_01Oum9W
+    socials:
+      facebook: https://www.facebook.com/hacktivity
+      X.com: https://x.com/hacktivityconf
+    city: Budapest
+    year: 2023
+- title: Attacking NPUs of Multiple Platforms
+  category: Hardware Security
+  subcategory: None
+  tags:
+  - NPU
+  - exploitation
+  - vulnerabilities
+  summary: The talk covers the security vulnerabilities in NPU systems across various
+    chipsets, demonstrating code auditing and exploitation techniques.
+  video: https://www.youtube.com/watch?v=GDiybPQn7g4
+  duration: 0:36:35
+  pub_date: '2024-03-18'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Zhang-Attacking-NPUs-of-Multiple-Platforms.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: 'TunnelCrack: Leaking VPN Traffic by Manipulating Routing Tables'
+  category: Security Operations
+  tags:
+  - VPN
+  - Wi-Fi
+  summary: The talk introduces two new attacks that allow a rogue Wi-Fi network to
+    leak VPN client traffic by manipulating the routing table.
+  video: https://www.youtube.com/watch?v=Gbt7aEANIEE
+  duration: 0:37:41
+  pub_date: '2024-03-18'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Vanhoef-Bypassing-Tunnels-Leaking-VPN-Client-Traffic.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: 'LogoFAIL: Security Implications of Image Parsing During System Boot'
+  category: Hardware Security
+  tags:
+  - UEFI
+  - BIOS
+  summary: This talk discusses the LogoFAIL vulnerabilities in BIOS image parsing
+    libraries, allowing attackers to execute arbitrary code during system boot.
+  video: https://www.youtube.com/watch?v=ch0t2_yjQJQ
+  duration: 0:44:15
+  pub_date: '2024-03-19'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Pagani-LogoFAIL-Security-Implications-of-Image_REV2.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: Sweet QuaDreams or Nightmare Before Christmas? Dissecting an iOS 0-Day
+  category: Offensive Security
+  tags:
+  - surveillance
+  - IOS
+  - 0day
+  summary: The talk discusses the rise of private sector offensive actors (PSOAs)
+    who sell surveillance and intrusion tools to governments, highlighting the potential
+    for misuse.
+  video: https://www.youtube.com/watch?v=7g3ti5AWEY0
+  duration: 0:38:30
+  pub_date: '2024-03-19'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/BHEU23-Fossaceca.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: 'Evils in the Sparse Texture Memory: Exploit Kernel Based on Undefined Behaviors
+    of Graphic APIs'
+  category: Hardware Security
+  tags:
+  - Android
+  - GPU
+  summary: This talk demonstrates vulnerabilities in the PowerVR GPU used in Android
+    devices, focusing on physical page UAF vulnerabilities due to mishandled sparse
+    texture memory management.
+  video: https://www.youtube.com/watch?v=0IiSbJB-smk
+  duration: 0:40:10
+  pub_date: '2024-03-20'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Jin-Evils-in-the-Sparse-Texture.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: 'A Decade After Stuxnet: How Siemens S7 is Still an Attacker''s Heaven'
+  category: Hardware Security
+  tags:
+  - reverse-engineering
+  - PLC
+  summary: The talk involves reverse-engineering the Siemens S7-1500 Software Controller
+    PLC to demonstrate security flaws.
+  video: https://www.youtube.com/watch?v=4-VoLm2SXao
+  duration: 0:38:32
+  pub_date: '2024-03-20'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Finck-A-Decade-After-Stuxnet-How-Siemens-S7-is-Still-an-Attackers-Heaven.pdf
+    whitepaper: https://i.blackhat.com/EU-23/Presentations/Whitepapers/EU-23-Finck-A-Decade-After-Stuxnet-How-Siemens-S7-is-Still-an-Attackers-Heaven-wp.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: 'Breaking Theoretical Limits: The Gap Between Virtual NICs and Physical Network
+    Cards'
+  category: Cloud Security
+  tags:
+  - Hyper-V
+  - virtualisation
+  summary: This talk explores the architecture of the netvsp.ko module in Hyper-V,
+    demonstrates sending IP packets that exceed length limitations, and compares virtual
+    NICs to physical network cards, highlighting vulnerabilities.
+  video: https://www.youtube.com/watch?v=bQYSQbvT4oY
+  duration: 0:23:27
+  pub_date: '2024-03-21'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Quan-Breaking-Theoretical-Limits_REV2.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: Illegitimate Data Protection Requests - To Delete or to Address?
+  category: Data Privacy
+  tags:
+  - malware
+  summary: The talk discusses the innovative exploitation scenarios by cyber-attackers
+    using seemingly valid data protection requests to spread malware.
+  video: https://www.youtube.com/watch?v=_3wFwIeZb5g
+  duration: 0:41:00
+  pub_date: '2024-03-21'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Munteanu-IllegitimateDataProtectionRequests.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: 'Unmasking APTs: An Automated Approach for Real-World Threat Attribution'
+  category: Security Operations
+  tags:
+  - APT
+  - attribution
+  summary: This talk explores the challenges of accurately attributing Advanced Persistent
+    Threats (APTs) through real-world case studies.
+  video: https://www.youtube.com/watch?v=mypauZPNCIY
+  duration: 0:43:32
+  pub_date: '2024-03-22'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Saha-Unmasking-APTs-An-Automated-Approach.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+- title: How We Taught ChatGPT-4 to Break mbedTLS AES With Side-Channel Attacks
+  category: Hardware Security
+  tags:
+  - LLM
+  - IOT
+  - side-channel
+  summary: This talk demonstrates using ChatGPT-4 to perform Correlation Power Attacks
+    on hardware, highlighting its capabilities and limitations.
+  video: https://www.youtube.com/watch?v=BF7xmb7YLbc
+  duration: 0:39:25
+  pub_date: '2024-03-22'
+  resources:
+    slides: https://i.blackhat.com/EU-23/Presentations/EU-23-Waligora-HowWeTaughtChatGPT4.pdf
+  conference:
+    name: Black Hat
+    event: Europe 2023
+    website: https://www.blackhat.com
+    channel: https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p
+    socials:
+      X.com: https://x.com/BlackHatEvents
+      linkedin: https://www.linkedin.com/in/black-hat-official-4b222772
+      facebook: https://facebook.com/Black-Hat-Events-107691635153
+      flickr: https://flickr.com/photos/blackhatevents
+    city: London
+    year: 2023
+
 - title: 'High Performance Java Cloud Native Apps'
   category: Application Security
   tags:
