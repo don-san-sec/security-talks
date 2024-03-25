@@ -220,29 +220,6 @@
       X.com: https://x.com/defcampro
     city: Bucharest
     year: 2023
-- title: The Future of AI Risk - Rise of the Transformers
-  category: Emerging Technology Security
-  subcategory: AI Security
-  tags:
-  - disinformation
-  - regulation
-  summary: The talk explores the future risks of artificial intelligence, including
-    adversarial, implementation, and societal risks, and discusses strategies for
-    proactive risk mitigation.
-  video: https://www.youtube.com/watch?v=ULCYUTQlbtk
-  duration: 0:46:43
-  pub_date: '2023-10-31'
-  conference:
-    name: HouSecCon
-    event: '2023'
-    website: https://www.houstonseccon.com
-    channel: https://www.youtube.com/playlist?list=PLA2-dYVG4Dv3X5dWKHSfZxE3fYY_gtIw-
-    socials:
-      facebook: https://www.facebook.com/HouSecCon
-      linkedin: https://www.linkedin.com/company/houseccon
-      X.com: https://x.com/HouSecCon
-    city: Houston
-    year: 2023
 - title: Detecting Network Beaconing With Convolutional Networks And Zeek Logs
   category: Emerging Technology Security
   subcategory: AI Security
