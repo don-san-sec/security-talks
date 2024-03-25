@@ -77,7 +77,6 @@
   video: https://www.youtube.com/watch?v=AMuk0YAHaNQ
   duration: 0:27:27
   pub_date: '2024-03-20'
-  resources: null
   conference:
     name: DefCamp
     event: '2023'
@@ -312,7 +311,6 @@
     year: 2023
 - title: Batter Up! Why Is Japan Still Batting In The Minor League Of Cybersecurity?
   category: Governance, Risk, and Compliance
-  subcategory: null
   tags:
   - cybersecurity
   - global events
@@ -405,7 +403,6 @@
   video: https://www.youtube.com/watch?v=Hez01mtJKNQ
   duration: 0:33:07
   pub_date: '2024-03-19'
-  resources: null
   conference:
     name: BSides Belfast
     event: '2023'
@@ -501,7 +498,6 @@
     year: 2023
 - title: Penetration Testing Using Windows Features
   category: Offensive Security
-  subcategory: null
   tags:
   - WSL
   - WSA
@@ -700,7 +696,6 @@
     year: 2023
 - title: Attacking NPUs of Multiple Platforms
   category: Hardware Security
-  subcategory: None
   tags:
   - NPU
   - exploitation
@@ -1261,7 +1256,6 @@
     year: 2023
 - title: Deleting Your Domain? Preventing Data Leaks at TLD Scale
   category: Emerging Technology Security
-  subcategory: None
   tags:
   - domain
   - email
@@ -1640,7 +1634,6 @@
   video: https://www.youtube.com/watch?v=OQ_vWws0FK0
   duration: 0:34:11
   pub_date: '2024-03-06'
-  resources: null
   conference:
     name: Hacktivity
     event: '20'
@@ -1804,7 +1797,6 @@
   video: https://www.youtube.com/watch?v=nj93gy39cGc
   duration: 0:35:40
   pub_date: '2024-03-08'
-  resources: null
   conference:
     name: BSides Calgary
     event: '2023'
@@ -2859,7 +2851,6 @@
   video: https://www.youtube.com/watch?v=bWidokJKuUc
   duration: 0:46:04
   pub_date: '2024-02-24'
-  resources: null
   conference:
     name: Nullcon
     event: Goa 2023
@@ -2976,7 +2967,6 @@
   video: https://www.youtube.com/watch?v=l4hA2eZuMF8
   duration: 0:34:26
   pub_date: '2024-02-20'
-  resources: null
   conference:
     name: Black Hat
     event: USA 2023
@@ -3030,7 +3020,6 @@
   video: https://www.youtube.com/watch?v=dau9plCrwoE
   duration: 0:39:36
   pub_date: '2024-02-21'
-  resources: null
   conference:
     name: Black Hat
     event: USA 2023
@@ -3127,7 +3116,6 @@
   video: https://www.youtube.com/watch?v=-1F6nRbh2fc
   duration: 0:23:25
   pub_date: '2024-02-22'
-  resources: null
   conference:
     name: c0c0n
     event: '16'
@@ -3222,7 +3210,6 @@
   video: https://www.youtube.com/watch?v=xyTQ-Viq7WM
   duration: 0:25:30
   pub_date: '2024-02-20'
-  resources: null
   conference:
     name: BSides Lisbon
     event: '2023'
