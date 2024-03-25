@@ -151,6 +151,11 @@ The talk discusses hardware implant attacks on electric scooters, detailing the 
 This talk evaluates the role of CHERI technology and the Digital Security by Design programme in enhancing hardware-based security against memory-safety vulnerabilities.  
 🎙️  **BSides Belfast 2023** [Website](https://bsidesbelfast.org) [Youtube](https://www.youtube.com/playlist?list=PL2u9o6Q45lL5dV88BF6amrbi4jlmRfRss) [Linkedin](https://www.linkedin.com/company/bsides-belfast-c.i.c.)  [X.com](https://x.com/bsidesbelfast)    
 
+- [**Attacking NPUs of Multiple Platforms**](https://www.youtube.com/watch?v=GDiybPQn7g4)  \[[Slides](https://i.blackhat.com/EU-23/Presentations/EU-23-Zhang-Attacking-NPUs-of-Multiple-Platforms.pdf)\]    
+`🏷️ NPU`  `🏷️ exploitation`  `🏷️ vulnerabilities`  
+The talk covers the security vulnerabilities in NPU systems across various chipsets, demonstrating code auditing and exploitation techniques.  
+🎙️  **Black Hat Europe 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
+
 - [**LogoFAIL: Security Implications of Image Parsing During System Boot**](https://www.youtube.com/watch?v=ch0t2_yjQJQ)  \[[Slides](https://i.blackhat.com/EU-23/Presentations/EU-23-Pagani-LogoFAIL-Security-Implications-of-Image_REV2.pdf)\]    
 `🏷️ UEFI`  `🏷️ BIOS`  
 This talk discusses the LogoFAIL vulnerabilities in BIOS image parsing libraries, allowing attackers to execute arbitrary code during system boot.  
@@ -169,12 +174,6 @@ The talk involves reverse-engineering the Siemens S7-1500 Software Controller PL
 - [**How We Taught ChatGPT-4 to Break mbedTLS AES With Side-Channel Attacks**](https://www.youtube.com/watch?v=BF7xmb7YLbc)  \[[Slides](https://i.blackhat.com/EU-23/Presentations/EU-23-Waligora-HowWeTaughtChatGPT4.pdf)\]    
 `🏷️ LLM`  `🏷️ IOT`  `🏷️ side-channel`  
 This talk demonstrates using ChatGPT-4 to perform Correlation Power Attacks on hardware, highlighting its capabilities and limitations.  
-🎙️  **Black Hat Europe 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
-
-### None
-- [**Attacking NPUs of Multiple Platforms**](https://www.youtube.com/watch?v=GDiybPQn7g4)  \[[Slides](https://i.blackhat.com/EU-23/Presentations/EU-23-Zhang-Attacking-NPUs-of-Multiple-Platforms.pdf)\]    
-`🏷️ NPU`  `🏷️ exploitation`  `🏷️ vulnerabilities`  
-The talk covers the security vulnerabilities in NPU systems across various chipsets, demonstrating code auditing and exploitation techniques.  
 🎙️  **Black Hat Europe 2023** [Website](https://www.blackhat.com) [Youtube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p) [X.com](https://x.com/BlackHatEvents)  [Linkedin](https://www.linkedin.com/in/black-hat-official-4b222772)  [Facebook](https://facebook.com/Black-Hat-Events-107691635153)  [Flickr](https://flickr.com/photos/blackhatevents)    
 
 ## Governance, Risk, and Compliance

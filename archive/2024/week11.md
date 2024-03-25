@@ -31,7 +31,6 @@ This talk discusses the importance of computer ethics in the context of rapidly 
 This talk explores the underlying platform of Azure machine learning service and how to leverage it.  
 🎙️  **c0c0n 16** [Website](https://india.c0c0n.org/2023) [Youtube](https://www.youtube.com/channel/UCdrUwHUyIyxz-Xd5e920_yQ) [Facebook](https://www.facebook.com/pages/c0c0n/137968402889465)  [Linkedin](https://www.linkedin.com/company/c0c0nconference)  [X.com](https://x.com/_c0c0n_)    
 
-### None
 - [**Deleting Your Domain? Preventing Data Leaks at TLD Scale**](https://www.youtube.com/watch?v=S-vieCNshPQ)  \[[Slides](https://i.blackhat.com/EU-23/Presentations/EU-23-Wullink-Deleting-Your-Domain-Preventing-REV2.pdf)\]    
 `🏷️ domain`  `🏷️ email`  `🏷️ privacy`  
 The talk introduces LEMMINGS, a system developed to alert former domain owners about potential email-related risks after their domain is deleted.  
